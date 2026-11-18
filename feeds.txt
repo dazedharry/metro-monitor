@@ -1,0 +1,6 @@
+# One feed URL per line. Lines starting with # are ignored.
+https://metro.co.uk/feed
+# Section feeds (check each URL opens in a browser before enabling):
+# https://metro.co.uk/news/feed/
+# https://metro.co.uk/entertainment/feed/
+# https://metro.co.uk/sport/feed/
