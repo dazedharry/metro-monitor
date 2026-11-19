@@ -1,10 +1,319 @@
 {
- "generated_at": "2026-11-19T07:06:15.610908Z",
+ "generated_at": "2026-11-19T11:42:25.591644Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 42,
+ "count": 61,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/19/harry-meghan-seen-archie-lilibet-winter-wonderland-29803490/",
+   "title": "Harry and Meghan make surprise appearance with Archie and Lilibet at Winter Wonderland",
+   "published": "2026-11-19T11:28:00Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/barcelona-add-57m-man-utd-star-transfer-shortlist-29803662/",
+   "title": "Barcelona add £57m Man Utd star to transfer shortlist ahead of January window",
+   "published": "2026-11-19T11:22:23Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "FC Barcelona",
+    "FC Barcelona transfer news",
+    "Lisandro Martinez",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/low-budget-vagina-amanda-tv-moment-year-katherine-ryan-sweeps-nation-29803794/",
+   "title": "Low budget vagina, Amanda! TV moment of the year with Katherine Ryan sweeps the nation",
+   "published": "2026-11-19T11:17:21Z",
+   "author": "Alicia Adejobi",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Katherine Ryan",
+    "Reality TV"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/gta-6-61-cheat-codes-unlock-29803705/",
+   "title": "GTA 6 has 61 cheat codes – here’s how to unlock them all",
+   "published": "2026-11-19T11:02:25Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/barcelona-respond-alejandro-balde-pushes-man-utd-transfer-29803658/",
+   "title": "Barcelona respond as Alejandro Balde pushes for Man Utd transfer",
+   "published": "2026-11-19T10:58:25Z",
+   "author": "Tom Olver",
+   "categories": [
+    "Football",
+    "Sport",
+    "FC Barcelona",
+    "FC Barcelona transfer news",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/sir-james-cleverly-will-next-tory-candidate-london-mayor-29803685/",
+   "title": "Ex-foreign secretary James Cleverly will be next Tory candidate for London Mayor",
+   "published": "2026-11-19T10:35:00Z",
+   "author": "Craig Munro",
+   "categories": [
+    "News",
+    "Politics",
+    "Boris Johnson",
+    "Conservative Party",
+    "James Cleverly",
+    "London",
+    "Sadiq Khan"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/freemasons-plan-change-ceremonies-swap-secrets-mysteries-29802366/",
+   "title": "Freemasons plan to change ceremonies and swap ‘secrets’ for ‘mysteries’",
+   "published": "2026-11-19T10:34:43Z",
+   "author": "Luke Alsford",
+   "categories": [
+    "News",
+    "UK",
+    "London",
+    "Metropolitan Police"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/panic-emmerdale-caleb-sadie-caught-act-29803419/",
+   "title": "Panic in Emmerdale as Caleb and Sadie are caught in the act",
+   "published": "2026-11-19T10:32:35Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Caleb Miligan",
+    "Patsy Kensit",
+    "Sadie King",
+    "William Ash"
+   ],
+   "summary": "Awks!",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/ronnie-osullivan-rather-a-bit-thick-like-a-lot-snooker-players-29803235/",
+   "title": "Ronnie O’Sullivan would ‘rather be a bit thick like a lot of snooker players’",
+   "published": "2026-11-19T10:04:35Z",
+   "author": "Phil Haigh",
+   "categories": [
+    "Snooker",
+    "Sport",
+    "Ronnie O'Sullivan"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/major-emmerdale-star-returning-back-sooner-think-29803316/",
+   "title": "Major Emmerdale star returning and she’s back sooner than you think",
+   "published": "2026-11-19T10:00:51Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Amy Walsh",
+    "Soaps Showbiz",
+    "Tracy Shankley"
+   ],
+   "summary": "She's back...and soon!",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/jack-whitehall-responds-becky-hill-releases-class-row-diss-track-29803433/",
+   "title": "Jack Whitehall responds after Becky Hill releases ‘class row’ diss track",
+   "published": "2026-11-19T09:57:18Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Becky Hill",
+    "Jack Whitehall"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/russian-oligarch-got-george-michael-sing-ex-wife-now-demanding-2-1billion-payout-29803405/",
+   "title": "Russian oligarch got George Michael to sing for ex-wife who is now demanding £2.1billion payout",
+   "published": "2026-11-19T09:48:24Z",
+   "author": "Sam Corbishley",
+   "categories": [
+    "News",
+    "UK",
+    "Business",
+    "Court",
+    "George Michael",
+    "High Court",
+    "Russia"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/pierce-brosnan-breaks-silence-magnificent-robert-pattinson-becoming-james-bond-29803474/",
+   "title": "Pierce Brosnan breaks silence on Robert Pattinson becoming James Bond",
+   "published": "2026-11-19T09:41:52Z",
+   "author": "Danni Scott",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "James Bond",
+    "Pierce Brosnan",
+    "Robert Pattinson"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/sex-scandal-eastenders-eve-sleeps-wife-sukis-daughter-ash-29803406/",
+   "title": "Sex scandal as EastEnders’ Eve sleeps with wife Suki’s daughter Ash",
+   "published": "2026-11-19T09:31:26Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Balvinder Sopal",
+    "Eve Panesar-Unwin",
+    "Heather Peace",
+    "Suki Panesar-Unwin"
+   ],
+   "summary": "Yikes!",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/anthony-joshua-reveals-secret-birth-baby-girl-tyson-fury-fight-29803354/",
+   "title": "Anthony Joshua reveals secret birth of baby girl three weeks before Tyson Fury fight",
+   "published": "2026-11-19T09:22:25Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Boxing",
+    "Sport",
+    "Anthony Joshua",
+    "Eddie Hearn",
+    "Tyson Fury"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/major-coronation-street-character-left-die-barlows-reel-29803297/",
+   "title": "Major Coronation Street character left to die as the Barlows reel",
+   "published": "2026-11-19T09:16:51Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Adam Barlow",
+    "Daniel Osbourne",
+    "Rob Mallard",
+    "Sam Robertson"
+   ],
+   "summary": "Things have taken a dark turn.",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/shoplifting-gang-balaclava-wearing-kids-young-nine-attack-store-29803334/",
+   "title": "Shoplifting gang of balaclava-wearing kids as young as nine attack store",
+   "published": "2026-11-19T09:14:50Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Glasgow",
+    "Scotland"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/clumsy-birds-keep-flying-power-lines-plunging-town-darkness-29800253/",
+   "title": "‘Clumsy birds keep flying into power lines and plunging our town into darkness’",
+   "published": "2026-11-19T09:07:02Z",
+   "author": "Rory McKeown",
+   "categories": [
+    "News",
+    "UK",
+    "Animals",
+    "Kent"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/girl-two-dies-found-unresponsive-house-second-person-taken-hospital-29803372/",
+   "title": "Girl, two, dies after being found unresponsive in house with second person taken to hospital",
+   "published": "2026-11-19T08:59:32Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "County Durham",
+    "Crime News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T11:42:25.591644Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/19/trump-points-putin-jokes-who-saying-hes-friend-29803174/",
    "title": "Trump points at Putin and jokes ‘who is he?’ before saying ‘he’s my friend’",
