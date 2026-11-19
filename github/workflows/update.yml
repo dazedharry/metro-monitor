@@ -2,7 +2,7 @@ name: Update Metro monitor
 
 on:
   schedule:
-- cron: "23 * * * *"
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
