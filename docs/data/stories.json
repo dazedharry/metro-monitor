@@ -1,10 +1,313 @@
 {
- "generated_at": "2026-11-18T21:41:59.602518Z",
+ "generated_at": "2026-11-19T07:06:15.610908Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 26,
+ "count": 42,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/19/trump-points-putin-jokes-who-saying-hes-friend-29803174/",
+   "title": "Trump points at Putin and jokes ‘who is he?’ before saying ‘he’s my friend’",
+   "published": "2026-11-19T07:03:47Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "World",
+    "China",
+    "Donald Trump",
+    "Russia",
+    "Vladimir Putin"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/lived-like-a-prepper-72-hours-29801395/",
+   "title": "I lived like a prepper for 72 hours – here’s what it’s really like",
+   "published": "2026-11-19T07:00:00Z",
+   "author": "Kim Bond",
+   "categories": [
+    "Lifestyle",
+    "Doomsday",
+    "Features"
+   ],
+   "summary": "From wild internet conspiracies of nationwide blackouts to the UK government’s ‘Be Ready’ campaign, there’s a general sense of unease over how ready we all are to face disaster. I gave it a crack.",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/two-air-crashes-died-three-times-somehow-lived-29664212/",
+   "title": "I’ve been in two air crashes and died three times – but somehow lived to tell the tale",
+   "published": "2026-11-19T07:00:00Z",
+   "author": "Sarah Ingram",
+   "categories": [
+    "Lifestyle",
+    "Death",
+    "Features",
+    "Real Life"
+   ],
+   "summary": "After his first crash, David died for 25 minutes",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/eastenders-spoilers-next-week-reveal-fresh-emergency-ailing-denise-29799365/",
+   "title": "All EastEnders spoilers for next week reveal fresh emergency for ailing Denise",
+   "published": "2026-11-19T07:00:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Denise Fox",
+    "Diane Parish",
+    "Francesca Henry",
+    "Gina Knight",
+    "Jack Branning",
+    "Jamie Bamber",
+    "Kellie Bright",
+    "Kitty Castledine",
+    "Laura Doddington",
+    "Linda Carter",
+    "Ned Hawkins",
+    "Nicola Mitchell",
+    "Penny Branning",
+    "Scott Maslen",
+    "Shiv Jalota",
+    "Vinny Panesar"
+   ],
+   "summary": "Secrets, lies and a big health emergency!",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/mary-toasts-huge-change-coronation-street-29799962/",
+   "title": "Mary raises glass to arrivals and departures in Coronation Street as announcements are made",
+   "published": "2026-11-19T07:00:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Christina Boyd",
+    "Gareth Pierce",
+    "George Shuttleworth",
+    "Summer Spellman",
+    "Todd Grimshaw",
+    "Tony Maudsley"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/emmerdale-spoilers-next-week-confirm-returns-two-huge-villains-29796042/",
+   "title": "All Emmerdale spoilers for next week confirm returns for two huge villains with disaster to follow",
+   "published": "2026-11-19T07:00:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Andrew Scarborough",
+    "Belle Dingle",
+    "Caleb Miligan",
+    "Chelsea Edge",
+    "Claire King",
+    "DS Thea Ramsden",
+    "Graham Foster",
+    "James Chase",
+    "Joe Tate",
+    "Kim Tate",
+    "Ned Porteous",
+    "Patsy Kensit",
+    "Sadie King",
+    "Tom King",
+    "William Ash"
+   ],
+   "summary": "A drama-filled week in the Dales!",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/games-inbox-played-gta-6-yet-29803168/",
+   "title": "Games Inbox: Have you played GTA 6 yet?",
+   "published": "2026-11-19T06:10:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games Inbox",
+    "GTA 6",
+    "Nintendo",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Super Mario",
+    "The Legend of Zelda",
+    "Xbox"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/moment-two-men-prowl-london-train-sexually-assaulted-girl-14-heinous-attack-29803050/",
+   "title": "Moment two men prowl the train where they sexually assaulted girl, 14, in ‘heinous’ attack",
+   "published": "2026-11-19T06:00:00Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "British Transport Police",
+    "Kent",
+    "Rail",
+    "This is Not Right"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/first-night-gta-6-best-looking-video-game-ever-made-29803154/",
+   "title": "My first night with GTA 6 – the best-looking video game ever made",
+   "published": "2026-11-19T06:00:00Z",
+   "author": "David Jenkins",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/schools-dealing-gta-6-release-day-including-prizes-attendance-29802824/",
+   "title": "How schools are dealing with GTA 6 release day – including prizes for attendance",
+   "published": "2026-11-19T06:00:00Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Grand Theft Auto"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/celebrities-earning-staggering-money-on-onlyfans-after-fame-struggles-29802358/",
+   "title": "Celebrities earning staggering money on OnlyFans after fame struggles",
+   "published": "2026-11-19T06:00:00Z",
+   "author": "Charlotte Minter",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Kate Nash",
+    "Kerry Katona",
+    "OnlyFans"
+   ],
+   "summary": "These celebs are diversifying their incomes.",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/im-a-sex-worker-earning-7-000-a-month-gta-6-make-richer-29801276/",
+   "title": "I’m a sex worker earning £7,000 a month, GTA 6 is about to make me richer",
+   "published": "2026-11-19T05:00:00Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Colombia",
+    "GTA 6",
+    "OnlyFans",
+    "Sex work"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/19/daily-horoscope-november-19-2026-predictions-star-sign-29796785/",
+   "title": "Daily horoscope November 19, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-19T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "See your November 19, 2026 horoscope as Mars and Chiron boost courage, self-belief and honest talks across the zodiac.",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/18/joanna-page-reveals-james-corden-told-secretly-slap-co-stars-arse-set-29802900/",
+   "title": "Joanna Page reveals James Corden told her to ‘secretly slap co-star’s arse’ on set",
+   "published": "2026-11-18T22:15:00Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Gavin and Stacey",
+    "I'm A Celebrity",
+    "ITV",
+    "James Corden",
+    "Joanna Page"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/18/easyjet-flight-makes-u-turn-declaring-emergency-due-bird-strike-29801779/",
+   "title": "EasyJet flight makes U-turn after declaring emergency due to ‘bird strike’",
+   "published": "2026-11-18T22:03:52Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK",
+    "Bristol Airport",
+    "Flights"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/18/maria-huge-danger-coronation-street-shocking-discovery-29792146/",
+   "title": "Maria in huge danger on Coronation Street after shocking discovery",
+   "published": "2026-11-18T22:00:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Gary Windass",
+    "Harriet Bibby",
+    "Maria Connor",
+    "Mikey North",
+    "Samia Longchambon",
+    "Summer Spellman"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-19T07:06:15.610908Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/18/florence-pugh-disturbed-fans-speculating-appearance-its-not-deep-turned-30-29802981/",
    "title": "Florence Pugh ‘disturbed’ by fans speculating about her appearance ‘It’s not that deep… I turned 30’",
