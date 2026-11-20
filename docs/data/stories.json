@@ -1,10 +1,228 @@
 {
- "generated_at": "2026-11-20T11:09:58.063728Z",
+ "generated_at": "2026-11-20T12:42:53.046390Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 116,
+ "count": 129,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/20/contaminated-drink-caused-outrage-social-media-29802306/",
+   "title": "The ‘contaminated’ drink that’s caused outrage on social media",
+   "published": "2026-11-20T12:42:40Z",
+   "author": "Charlie Sawyer",
+   "categories": [
+    "Lifestyle",
+    "Coffee",
+    "Mums",
+    "TikTok"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/coronation-street-legend-faces-death-christmas-crash-horror-29806847/",
+   "title": "Coronation Street legend faces death in Christmas crash horror",
+   "published": "2026-11-20T12:32:52Z",
+   "author": "Duncan Lindsay",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Debbie Webster",
+    "Kate Brooks",
+    "Sue Devaney"
+   ],
+   "summary": "Festive disaster rocks the cobbles...",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/alison-hammond-mortified-snubbing-prince-harrys-call-im-sorry-29806900/",
+   "title": "Alison Hammond mortified after snubbing Prince Harry’s call: ‘I’m sorry!’",
+   "published": "2026-11-20T12:15:29Z",
+   "author": "Sabrina Barr",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Alison Hammond",
+    "Dermot O'Leary",
+    "ITV",
+    "ITVX",
+    "Prince Harry",
+    "This Morning"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/musk-mates-running-scared-good-29806659/",
+   "title": "Musk and his mates are running scared – good",
+   "published": "2026-11-20T12:12:05Z",
+   "author": "Pablo O'Hana",
+   "categories": [
+    "Opinion",
+    "US",
+    "Columnists",
+    "Donald Trump",
+    "Elon Musk",
+    "SpaceX",
+    "Tesla"
+   ],
+   "summary": "This is the same man who bounced on stage at a Trump rally two years ago to declare himself ‘dark, gothic MAGA’.",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/eastenders-fans-totally-disgusted-eve-ash-twist-29806416/",
+   "title": "EastEnders fans totally disgusted at Eve and Ash twist",
+   "published": "2026-11-20T12:08:11Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Ash Panesar",
+    "Balvinder Sopal",
+    "Eve Panesar-Unwin",
+    "Heather Peace",
+    "Sakira Vel",
+    "Suki Panesar-Unwin"
+   ],
+   "summary": "Fans aren't happy!",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/james-bond-hopeful-lost-role-making-terrible-joke-casting-29806707/",
+   "title": "James Bond hopeful lost role after making ‘terrible joke’ during casting",
+   "published": "2026-11-20T12:06:03Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "James Bond",
+    "Matthew Rhys"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/cyberleek-returns-threatens-release-free-pirate-version-gta-6-29806746/",
+   "title": "Cyberleek returns and threatens to release free pirate version of GTA 6",
+   "published": "2026-11-20T12:05:37Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Grand Theft Auto",
+    "GTA 6",
+    "Rockstar Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/very-famous-man-still-working-accused-rape-sexual-assault-29806751/",
+   "title": "‘Very famous man’ who is still working accused of rape and sexual assault",
+   "published": "2026-11-20T12:04:25Z",
+   "author": "Danni Scott",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "David Walliams",
+    "nicola thorp",
+    "Russell Brand"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/watched-harrowing-movie-year-heart-sunk-2-29784943/",
+   "title": "I watched the most harrowing movie of the year – my heart sunk",
+   "published": "2026-11-20T12:00:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "BFI London Film Festival",
+    "Channing Tatum",
+    "Film reviews"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/jose-mourinho-shuts-jj-gabriel-question-man-utd-exit-29806431/",
+   "title": "Jose Mourinho shuts down JJ Gabriel question after Manchester United exit",
+   "published": "2026-11-20T11:51:04Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Jose Mourinho",
+    "La Liga",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Premier League",
+    "Real Madrid",
+    "Real Madrid transfer news",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/buildings-shake-los-angeles-rocked-powerful-earthquake-29806758/",
+   "title": "Los Angeles rocked by 4.2 magnitude earthquake",
+   "published": "2026-11-20T11:46:50Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "US",
+    "Earthquakes",
+    "Los Angeles"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/childminder-suspended-boy-one-escapes-care-rescued-bin-man-29806500/",
+   "title": "Childminder suspended after boy, one, escapes her care and is rescued by bin man",
+   "published": "2026-11-20T11:35:22Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Children",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/christmas-candy-cane-sweets-urgently-recalled-fears-contain-metal-29806605/",
+   "title": "Christmas sweets urgently recalled over fears they ‘contain metal’",
+   "published": "2026-11-20T11:22:14Z",
+   "author": "Fabio Crispim",
+   "categories": [
+    "News",
+    "UK",
+    "Food recalls",
+    "Health News",
+    "High Street"
+   ],
+   "summary": "A box of 12 Christmas candy cane sweets have been recalled for 'containing metal'.",
+   "image": null,
+   "first_seen": "2026-11-20T12:42:53.046390Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/20/alan-shearers-premier-league-predictions-including-liverpool-vs-man-utd-29806274/",
    "title": "Alan Shearer’s Premier League predictions including Liverpool vs Manchester United",
@@ -153,7 +371,7 @@
   },
   {
    "link": "https://metro.co.uk/2026/11/20/poland-struck-drone-missile-near-border-ukraine-29806190/",
-   "title": "Poland to request Nato support after its his by ‘Russian’ missile and drone",
+   "title": "Poland to request Nato support after it’s hit by ‘Russian’ missile and drone",
    "published": "2026-11-20T09:39:33Z",
    "author": "Sarah Hooper",
    "categories": [
