@@ -1,10 +1,181 @@
 {
- "generated_at": "2026-11-19T23:37:03.309435Z",
+ "generated_at": "2026-11-20T07:24:29.297916Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 89,
+ "count": 99,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/20/emmerdale-confirms-shocking-tom-king-lie-proves-still-evil-29796581/",
+   "title": "Emmerdale confirms shocking Tom lie that proves he’s still evil",
+   "published": "2026-11-20T07:00:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Eden Taylor-Draper",
+    "James Chase",
+    "Tom King"
+   ],
+   "summary": "Of course he hasn't changed.",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/gemma-chan-channing-tatums-new-role-nothing-like-magic-mike-29795964/",
+   "title": "Gemma Chan: ‘Channing Tatum’s new role is nothing like Magic Mike’",
+   "published": "2026-11-20T07:00:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "Channing Tatum"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/beauty-fans-can-save-25-bestselling-tatcha-skincare-this-black-friday-29788843/",
+   "title": "Tatcha’s Black Friday sale is here with 25% off Dewy Skin Cream, Silk Cream and more",
+   "published": "2026-11-20T07:00:00Z",
+   "author": "Scott Da Silva-Wells",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Beauty Products",
+    "Black Friday",
+    "Deals",
+    "Metro newspaper"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/piccadilly-line-tfl-workers-strike-24-hours-row-sacked-colleague-29805949/",
+   "title": "Piccadilly Line TfL workers strike for 24 hours in row over sacked colleague",
+   "published": "2026-11-20T06:22:36Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "London Underground",
+    "Night Tube",
+    "Transport for London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/london-looked-like-voted-remain-eu-29803784/",
+   "title": "What would London have looked like if we had voted to remain in the EU?",
+   "published": "2026-11-20T06:00:00Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "European Union",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/ex-husband-left-unfulfilled-now-orgasm-new-ways-every-week-29803838/",
+   "title": "My ex-husband left me unfulfilled — now I orgasm in new ways every week",
+   "published": "2026-11-20T05:00:00Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "How I Do It",
+    "Marriage",
+    "Relationships",
+    "Sex tips"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/star-signs-sagittarius-season-2026-tarot-horoscope-reading-29798829/",
+   "title": "Sagittarius season asks you to make a leap — your star sign’s tarot horoscope forecast",
+   "published": "2026-11-20T04:00:00Z",
+   "author": "Kerry King",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Astrology",
+    "Sagittarius",
+    "Tarot"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/games-inbox-gta-6-first-impressions-29805906/",
+   "title": "Games Inbox: Your GTA 6 first impressions",
+   "published": "2026-11-20T01:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games Inbox",
+    "GTA 6",
+    "Rockstar Games",
+    "The Legend of Zelda"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/met-police-can-now-take-a-picture-suspects-phone-without-consent-29804876/",
+   "title": "Met Police can now take a picture of suspects on their phone without consent",
+   "published": "2026-11-20T00:01:00Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "London",
+    "Metropolitan Police"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/daily-horoscope-november-2026-predictions-star-sign-29796788/",
+   "title": "Daily horoscope November 20, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-20T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T07:24:29.297916Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/19/man-tortured-brit-death-messages-revealed-tried-cover-tracks-29805901/",
    "title": "Man who ‘tortured Brit to death’ messages revealed as he ‘tried to cover tracks’",
