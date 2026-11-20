@@ -1,10 +1,420 @@
 {
- "generated_at": "2026-11-20T12:42:53.046390Z",
+ "generated_at": "2026-11-20T16:59:42.999858Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 129,
+ "count": 154,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/20/driver-texting-merry-christmas-ploughed-elderly-couple-killing-loving-grandma-29805802/",
+   "title": "Driver texting ‘Merry Christmas’ ploughed into elderly couple killing ‘loving grandma’",
+   "published": "2026-11-20T16:57:02Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Crash",
+    "Darlington"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/claustrophobic-tesco-express-london-just-reopened-29806915/",
+   "title": "The most ‘claustrophobic’ Tesco Express in London just reopened",
+   "published": "2026-11-20T16:43:32Z",
+   "author": "Charlie Sawyer",
+   "categories": [
+    "Lifestyle",
+    "London",
+    "Tesco"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/lulu-reveals-watched-ex-husband-john-frieda-die-birthday-29807987/",
+   "title": "Lulu reveals she watched ex-husband John Frieda die on her birthday",
+   "published": "2026-11-20T16:29:22Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Celebrity Deaths",
+    "Lulu"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/best-christmas-tree-decorations-2026-classic-completely-quirky-29794953/",
+   "title": "The best Christmas tree decorations for 2026, from classic to completely quirky",
+   "published": "2026-11-20T16:25:24Z",
+   "author": "Sarah Bradbury",
+   "categories": [
+    "Lifestyle",
+    "Shopping",
+    "Christmas",
+    "High Street"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/robert-de-niros-savage-response-asked-ariana-grandes-music-29807862/",
+   "title": "Robert De Niro’s savage response when asked about Ariana Grande’s music",
+   "published": "2026-11-20T16:25:02Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Ariana Grande",
+    "Ben Stiller",
+    "Robert De Niro",
+    "US Showbiz news"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/legionnaires-disease-two-people-died-rotherham-outbreak-29807428/",
+   "title": "What is Legionnaires’ disease after two people died in Rotherham ‘outbreak’",
+   "published": "2026-11-20T16:16:49Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "News",
+    "UK",
+    "Health News",
+    "Pneumonia",
+    "Yorkshire"
+   ],
+   "summary": "The source of the contamination has not been identified.",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/three-teenagers-stabbed-a-needle-sheffield-city-centre-29807904/",
+   "title": "Three teenagers ‘stabbed with a needle’ in Sheffield city centre",
+   "published": "2026-11-20T16:09:17Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Crime News",
+    "Sheffield"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/take-two-boss-shuts-gta-7-questions-addresses-gta-movie-29807712/",
+   "title": "Take-Two boss shuts down GTA 7 questions as he addresses GTA movie",
+   "published": "2026-11-20T15:53:58Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "Rockstar Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/omar-berrada-hits-back-criticism-man-utd-transfer-strategy-29807728/",
+   "title": "Omar Berrada hits back at criticism over Manchester United’s transfer strategy",
+   "published": "2026-11-20T15:44:01Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Mauricio Pochettino",
+    "Michael Carrick",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/man-utd-chief-omar-berrada-breaks-silence-man-city-charges-denies-involvement-29807696/",
+   "title": "Man Utd chief Omar Berrada breaks silence on Man City charges and denies involvement",
+   "published": "2026-11-20T15:35:55Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Manchester City FC",
+    "Manchester United",
+    "Mauricio Pochettino",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/m-s-launches-amazing-new-spread-fans-hail-better-biscoff-29806327/",
+   "title": "M&S launches ‘amazing’ new spread fans hail ‘better than Biscoff’",
+   "published": "2026-11-20T15:23:43Z",
+   "author": "Maicey Navarro Griffiths",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Christmas",
+    "Food Launches",
+    "Foodie",
+    "Marks & Spencer",
+    "Supermarkets"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/danny-tommo-jailed-slashing-migrant-dinghy-channel-29807656/",
+   "title": "Danny Tommo jailed after slashing migrant dinghy in Channel",
+   "published": "2026-11-20T15:20:41Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Danny Tommo"
+   ],
+   "summary": "The far-right activist pleaded guilty to criminal damage.",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/louis-saha-says-man-utd-signed-65m-former-chelsea-star-29806039/",
+   "title": "Louis Saha says Man Utd should have signed £65m former Chelsea star",
+   "published": "2026-11-20T15:20:16Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "Aston Villa",
+    "Chelsea FC",
+    "Louis Saha",
+    "Manchester United",
+    "Nicolas Jackson",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/wrap-warm-coldest-night-year-approaching-29807376/",
+   "title": "Wrap up warm – the coldest night of the year is approaching",
+   "published": "2026-11-20T15:08:24Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "UK",
+    "UK weather",
+    "Weather"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/new-437-000-000-museum-london-will-exhibit-tom-daleys-trunks-giant-fatberg-29807189/",
+   "title": "New £437,000,000 museum in London will exhibit Tom Daley’s trunks and ‘giant fatberg’",
+   "published": "2026-11-20T15:00:00Z",
+   "author": "Valentina Vinciarelli",
+   "categories": [
+    "News",
+    "UK",
+    "London",
+    "Tom Daley"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/mahershala-ali-is-the-action-hero-we-need-his-new-movie-doesnt-do-him-justice-29784969/",
+   "title": "Mahershala Ali is the action hero we need – his new movie doesn’t do him justice",
+   "published": "2026-11-20T15:00:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "BFI London Film Festival",
+    "Film reviews",
+    "Mahershala Ali"
+   ],
+   "summary": "Mahershala Ali is a powerhouse in this profound new movie that just falls short.",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/rooneys-side-by-side-toilet-habit-isnt-weird-think-29806627/",
+   "title": "The Rooneys’ side-by-side toilet habit isn’t as weird as you think",
+   "published": "2026-11-20T14:58:59Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Coleen Rooney",
+    "I'm A Celebrity",
+    "Relationships",
+    "Sex tips",
+    "Wayne Rooney"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/chart-topping-british-musician-hints-surprise-glastonbury-2027-performance-29806971/",
+   "title": "Chart-topping British musician hints at surprise Glastonbury 2027 performance",
+   "published": "2026-11-20T14:50:00Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "Music",
+    "Glastonbury Festival",
+    "James Blunt"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/kaya-scodelario-katie-piper-helen-george-sparkle-hogwarts-snow-29806640/",
+   "title": "Kaya Scodelario, Katie Piper and Helen George sparkle at Hogwarts in the Snow",
+   "published": "2026-11-20T14:37:25Z",
+   "author": "Rory McKeown",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "Showbiz",
+    "Gemma Whelan",
+    "Harry Potter",
+    "Helen George",
+    "Katie Piper"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/death-row-inmate-screams-the-pain-execution-like-no-other-29806896/",
+   "title": "Death row inmate screams ‘the pain!’ during ‘execution like no other’",
+   "published": "2026-11-20T14:29:13Z",
+   "author": "Steve Charnock",
+   "categories": [
+    "News",
+    "US",
+    "Crime News",
+    "United States of America"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/joao-pedro-injury-update-five-chelsea-stars-miss-leeds-clash-29807345/",
+   "title": "Joao Pedro injury update with five Chelsea stars to miss Leeds clash",
+   "published": "2026-11-20T14:16:22Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Chelsea FC",
+    "Joao Pedro",
+    "Jorrel Hato",
+    "Leeds United",
+    "Maxence Lacroix",
+    "Moises Caicedo",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/hunt-sally-anne-bowen-sexually-abused-boys-fails-attend-sentencing-29807310/",
+   "title": "Teacher who sexually abused boys arrested after failing to attend sentencing",
+   "published": "2026-11-20T14:13:07Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Metropolitan Police"
+   ],
+   "summary": "Police launched a search after a warrant for her arrest was issued.",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/baby-monkey-weighing-just-140g-rescued-filthy-garden-shed-london-29807190/",
+   "title": "Baby monkey weighing just 140g rescued from ‘filthy’ garden shed in London",
+   "published": "2026-11-20T14:12:33Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Animals",
+    "Crime News",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/glee-co-creator-confirms-cory-monteith-naya-riveras-deaths-will-part-reboot-29807207/",
+   "title": "Glee co-creator confirms Cory Monteith and Naya Rivera’s deaths ‘will be part of reboot’",
+   "published": "2026-11-20T13:54:01Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Cory Monteith",
+    "Glee",
+    "Naya Rivera",
+    "Ryan Murphy"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/alvaro-arbeloa-responds-man-utd-interest-calvin-bassey-transfer-29807197/",
+   "title": "Alvaro Arbeloa responds to Man Utd interest in Calvin Bassey transfer",
+   "published": "2026-11-20T13:28:55Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Fulham transfer news",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-20T16:59:42.999858Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/20/contaminated-drink-caused-outrage-social-media-29802306/",
    "title": "The ‘contaminated’ drink that’s caused outrage on social media",
