@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Metro.co.uk | Content Hub</title>
+<title>Metro output monitor</title>
 <style>
 :root{
   --bg:#fff; --fg:#000; --muted:#5c5c5c; --line:#d9d9d9; --soft:#f2f2f2;
-  --news:#1f6feb; --ent:#e5197d; --sport:#1a9b4b; --life:#e8412f; --soaps:#8b5cc7; --tech:#d98a00; --other:#808080;
+  --news:#1f6feb; --ent:#e5197d; --sport:#1a9b4b; --life:#e8412f; --soaps:#8b5cc7; --tech:#d98a00; --opinion:#0b7285; --shopping:#c2410c; --puzzles:#6d8f00; --money:#b8860b; --property:#5b6b7b; --travel:#0e9fbc; --horoscopes:#9c36b5; --other:#808080;
 }
 @media (prefers-color-scheme:dark){
   :root{--bg:#000; --fg:#fff; --muted:#a8a8a8; --line:#333; --soft:#1a1a1a;
-        --news:#4d94ff; --ent:#ff4fa3; --sport:#35c46b; --life:#ff6a55; --soaps:#b08af0; --tech:#f0a91a; --other:#9a9a9a;}
+        --news:#4d94ff; --ent:#ff4fa3; --sport:#35c46b; --life:#ff6a55; --soaps:#b08af0; --tech:#f0a91a; --opinion:#3bc0d8; --shopping:#ff8a4c; --puzzles:#a3d13a; --money:#e6b422; --property:#8fa1b3; --travel:#4cc9e4; --horoscopes:#d27ae8; --other:#9a9a9a;}
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 "Helvetica Neue",Arial,sans-serif}
@@ -84,7 +84,7 @@ input{flex:1 1 220px}
 <body>
 <div class="wrap">
   <header>
-    <h1>Metro.co.uk Content Hub</h1>
+    <h1>Metro output</h1>
     <div class="status" id="status" role="status">Loading…</div>
   </header>
   <div id="err" hidden></div>
@@ -114,6 +114,7 @@ input{flex:1 1 220px}
         <thead><tr><th>Section</th><th class="r">Today</th><th class="r">Daily avg</th><th class="r">Share of 7 days</th></tr></thead>
         <tbody id="sections"></tbody>
       </table>
+      <p class="sub" id="unmapped" style="margin-top:12px"></p>
     </section>
 
     <section class="two">
@@ -156,16 +157,45 @@ const dateTimeFmt=new Intl.DateTimeFormat("en-GB",{timeZone:TZ,weekday:"short",d
 function dayLabel(dayStr){return dayLabelFmt.format(new Date(dayStr+"T12:00:00Z"));}
 function shiftDay(dayStr,n){const d=new Date(dayStr+"T12:00:00Z");d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10);}
 
-const COLOUR_RULES=[
-  [/soap/i,"var(--soaps)"],
-  [/entertain|showbiz|tv|celeb|music|film/i,"var(--ent)"],
-  [/sport|football|premier|f1|cricket|rugby|tennis/i,"var(--sport)"],
-  [/life|food|travel|health|fashion|beauty|horoscope|relationship|money|home|garden|wellbeing/i,"var(--life)"],
-  [/tech|gaming|game|science/i,"var(--tech)"],
-  [/news|uk|world|politic|us\b|crime|weather|royal/i,"var(--news)"]
+const MASTER=["News","Entertainment","Sport","Lifestyle","Soaps","Opinion","Shopping","Puzzles","Money","Property","Travel","Horoscopes","Tech and Gaming","Other"];
+const COLOURS={News:"var(--news)",Entertainment:"var(--ent)",Sport:"var(--sport)",Lifestyle:"var(--life)",Soaps:"var(--soaps)",Opinion:"var(--opinion)",Shopping:"var(--shopping)",Puzzles:"var(--puzzles)",Money:"var(--money)",Property:"var(--property)",Travel:"var(--travel)",Horoscopes:"var(--horoscopes)","Tech and Gaming":"var(--tech)",Other:"var(--other)"};
+function colourOf(section){return COLOURS[section]||"var(--other)";}
+const rx=list=>new RegExp("\\b(?:"+list.join("|")+")\\b","i");
+
+/* Pass 1: named shows and sports override the feed's own tags.
+   "title" terms are matched in the headline and tags; "tags" terms only in tags, because they are ambiguous in headlines. */
+const OVERRIDES=[
+  ["Soaps",{title:rx(["eastenders","east enders","emmerdale","coronation street","corrie","hollyoaks","home and away"]),tags:rx(["soaps?","neighbours"])}],
+  ["Sport",{title:rx(["snooker","boxing(?! day)","premier league","champions league","formula 1","wimbledon","rugby","cricket","tennis","ufc","darts"]),tags:rx(["golf","f1","boxer"])}]
 ];
-function colourOf(section){for(const [re,c] of COLOUR_RULES){if(re.test(section))return c;}return "var(--other)";}
-function sectionOf(s){return (s.categories&&s.categories[0])||"Uncategorised";}
+/* Pass 2: map each feed tag, in order, to the master list. */
+const TAG_RULES=[
+  ["Opinion",rx(["opinion","columnist","comment"])],
+  ["Horoscopes",rx(["horoscopes?","zodiac","star signs?","astrology"])],
+  ["Puzzles",rx(["puzzles?","crosswords?","sudoku","wordle","quiz(?:zes)?"])],
+  ["Shopping",rx(["shopping","deals?","black friday","cyber monday","sales?","discounts?"])],
+  ["Property",rx(["property","house prices?","housing","rents?","rental","estate agents?"])],
+  ["Money",rx(["money","cost of living","energy bills?","savings?","pensions?","mortgages?","tax","finance","credit"])],
+  ["Travel",rx(["travel","holidays?","flights?","airports?","cruises?","getaway"])],
+  ["Sport",rx(["sport","football","olympics"])],
+  ["Soaps",rx(["soaps?"])],
+  ["Tech and Gaming",rx(["tech","technology","gaming","games?","video games?","gadgets?","playstation","xbox","nintendo","smartphones?","ai","apps?"])],
+  ["Lifestyle",rx(["life","lifestyle","beauty","food","health","fashion","relationships?","wellbeing","wellness","fitness","parenting","home","garden","diet","sex","recipes?","pets"])],
+  ["Entertainment",rx(["entertainment","showbiz","tv","celeb(?:rity|rities)?","music","films?","movies?","strictly","love island","reality"])],
+  ["News",rx(["news","uk","world","politics","crime","weather","us","royal","royals","business","science","environment","education","transport"])]
+];
+function sectionOf(s){
+  const tags=(s.categories||[]);
+  const tagText=tags.join(" | ");
+  const titleAndTags=(s.title||"")+" | "+tagText;
+  for(const [name,r] of OVERRIDES){
+    if(r.title.test(titleAndTags)||r.tags.test(tagText))return name;
+  }
+  for(const t of tags){
+    for(const [name,r] of TAG_RULES){if(r.test(t))return name;}
+  }
+  return "Other";
+}
 function safeHref(u){return /^https?:\/\//i.test(u)?u:"#";}
 
 function h(tag,attrs,...kids){
@@ -277,6 +307,11 @@ function render(){
     const a7=prev7.length?(secCounts7[sn]||0)/prev7.length:0;
     tb.append(h("tr",{},h("td",{},h("i",{style:`background:${colourOf(sn)}`}),sn),h("td",{class:"r",text:String(secCountsToday[sn]||0)}),h("td",{class:"r",text:a7.toFixed(1)}),h("td",{class:"r",text:total7?Math.round((secCounts7[sn]||0)/total7*100)+"%":"–"})));
   });
+
+  // tags behind stories that landed in Other, to spot gaps in the mapping
+  const oc={};ALL.filter(x=>x.section==="Other").forEach(x=>{const t=(x.categories&&x.categories[0])||"(no tag)";oc[t]=(oc[t]||0)+1;});
+  const ot=Object.entries(oc).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  $("unmapped").textContent=ot.length?"Most common tags in Other: "+ot.map(([t,c])=>t+" ("+c+")").join(", ")+".":"Every story is mapped to a section.";
 
   // last-7-day pool (today + previous 6)
   const pool=days.flatMap(d=>byDay[d]||[]);
