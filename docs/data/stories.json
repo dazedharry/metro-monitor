@@ -1,10 +1,132 @@
 {
- "generated_at": "2026-11-20T23:07:37.810177Z",
+ "generated_at": "2026-11-21T04:00:10.390017Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 172,
+ "count": 178,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/21/attending-pokemon-night-edm-concert-adults-readers-feature-29808599/",
+   "title": "Attending Pokémon Night Out: the EDM concert for adults – Reader’s Feature",
+   "published": "2026-11-21T02:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "O2 Arena",
+    "Pokémon",
+    "Pokemon Go",
+    "Reader's Feature"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/rather-gta-6-worse-graphics-a-higher-frame-rate-readers-feature-29808591/",
+   "title": "Why I’d rather GTA 6 had worse graphics and a higher frame rate – Reader’s Feature",
+   "published": "2026-11-21T01:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "GTA 6",
+    "PlayStation 5",
+    "Reader's Feature"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/daily-horoscope-november-21-2026-predictions-star-sign-29808401/",
+   "title": "Daily horoscope November 21, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-21T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/eastenders-gina-discovers-life-ruining-truth-shock-consequences-follow-29798611/",
+   "title": "EastEnders’ Gina discovers life-ruining truth and shock consequences follow",
+   "published": "2026-11-20T23:59:00Z",
+   "author": "Maisie Spackman",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Elijah Holloway",
+    "Francesca Henry",
+    "Gina Knight",
+    "Harry Mitchell",
+    "Kitty Castledine",
+    "Penny Branning"
+   ],
+   "summary": "She was desperate for answers...",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/murderer-called-lisa-investigates-coronation-street-spoiler-videos-reveal-next-29808451/",
+   "title": "Murderer called out and Lisa investigates as Coronation Street spoiler videos reveal what’s next",
+   "published": "2026-11-20T23:59:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Alan Halsall",
+    "David Platt",
+    "DS Lisa Connor-Swain",
+    "Fiz Dobbs",
+    "Jack P. Shepherd",
+    "Jennie McAlpine",
+    "Jodie Ramsey",
+    "Julia Goulding",
+    "Olivia Frances-Brown",
+    "Vicky Pattison"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/20/steve-gasts-kims-flabber-new-emmerdale-spoiler-videos-29806983/",
+   "title": "Steve gasts Kim’s flabber in new Emmerdale spoiler videos",
+   "published": "2026-11-20T23:59:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Cain Dingle",
+    "Claire King",
+    "Eden Taylor-Draper",
+    "Jeff Hordley",
+    "Kim Tate",
+    "Paul Opacic",
+    "Steve Marchant"
+   ],
+   "summary": "Two unwelcome surprises!",
+   "image": null,
+   "first_seen": "2026-11-21T04:00:10.390017Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/20/im-a-celebrity-faces-fresh-friction-camp-joanna-page-stormed-29808398/",
    "title": "I’m A Celebrity faces fresh ‘friction’ in camp after Joanna Page stormed out",
