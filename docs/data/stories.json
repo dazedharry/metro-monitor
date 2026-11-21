@@ -1,10 +1,111 @@
 {
- "generated_at": "2026-11-21T18:49:52.568136Z",
+ "generated_at": "2026-11-21T20:08:28.645001Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 229,
+ "count": 235,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/21/suffolk-village-votes-leave-uk-plans-asylum-camp-raf-base-29809314/",
+   "title": "Suffolk village votes to ‘leave’ UK over plans for asylum camp at RAF base",
+   "published": "2026-11-21T20:07:24Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Migrants",
+    "Refugees",
+    "Suffolk"
+   ],
+   "summary": "Some 500 residents were eligible to vote in the symbolic poll.",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/coronation-streets-brody-plots-revenge-idris-leanne-29800198/",
+   "title": "Brody plots revenge on Idris and Leanne in Coronation Street as their true nature unfolds",
+   "published": "2026-11-21T20:00:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Brody Michaelis",
+    "Idris Nazir",
+    "Jane Danson",
+    "Junade Khan",
+    "Leanne Battersby",
+    "Ryan Mulvey"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/strictlys-blackpool-show-interrupted-bbc-viewers-hear-sex-noises-background-29809333/",
+   "title": "Strictly’s Blackpool show interrupted as BBC viewers hear ‘sex noises’ in background",
+   "published": "2026-11-21T19:52:05Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Strictly Come Dancing"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/jamie-redknapp-names-arsenal-star-not-level-needed-mikel-arteta-29809349/",
+   "title": "Jamie Redknapp names Arsenal star who is ‘not up to the level’ needed by Mikel Arteta",
+   "published": "2026-11-21T19:50:31Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "Kepa Arrizabalaga",
+    "Mikel Arteta",
+    "Newcastle United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/kit-death-confirmed-coronation-street-rushed-hospital-29800196/",
+   "title": "Kit death ‘confirmed’ on Coronation Street as he is rushed to hospital in serious emergency",
+   "published": "2026-11-21T19:00:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Jacob Roberts",
+    "Kit Green",
+    "Sarah Platt",
+    "Tina O'Brien"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/horrifying-x-ray-shows-knife-buried-mans-neck-stabbing-survived-29809273/",
+   "title": "Horrifying X-ray shows knife buried in man’s neck after stabbing – and he survived",
+   "published": "2026-11-21T18:57:41Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "News",
+    "World",
+    "Brazil",
+    "Crime News"
+   ],
+   "summary": "The blade narrowly missed a major artery.",
+   "image": null,
+   "first_seen": "2026-11-21T20:08:28.645001Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/21/xabi-alonso-gives-moises-caicedo-injury-update-chelsea-crisis-grows-29809233/",
    "title": "Xabi Alonso gives Moises Caicedo injury update as Chelsea crisis grows",
