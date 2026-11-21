@@ -1,10 +1,424 @@
 {
- "generated_at": "2026-11-21T04:00:10.390017Z",
+ "generated_at": "2026-11-21T12:43:49.258025Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 178,
+ "count": 204,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/21/therapist-set-a-blind-date-another-client-29764420/",
+   "title": "My therapist set me up on a blind date with another patient",
+   "published": "2026-11-21T12:00:00Z",
+   "author": "Anonymous",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Dating",
+    "First Person",
+    "Real Life",
+    "Relationships",
+    "Romance",
+    "So, How Did It Go?"
+   ],
+   "summary": "‘You guys are literally the perfect match,’ said Jane. And then: ‘I’ve already told him about you.’",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/mahershala-ali-im-finally-action-hero-age-52-2-29784965/",
+   "title": "Mahershala Ali: ‘I’m finally an action hero at age 52’",
+   "published": "2026-11-21T12:00:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "BFI London Film Festival",
+    "Mahershala Ali"
+   ],
+   "summary": "After a lifetime swerving action, Ali is diving in headfirst.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/katie-price-flashes-boobs-channel-4-crew-handcuffed-suella-braverman-29808791/",
+   "title": "Katie Price flashes boobs to Channel 4 crew – while handcuffed to Suella Braverman",
+   "published": "2026-11-21T11:30:37Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Katie Price",
+    "Suella Braverman"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/man-stole-800-gorilla-statue-cycled-off-bike-jailed-29808805/",
+   "title": "Man who stole £800 gorilla statue and cycled off with it on his bike jailed",
+   "published": "2026-11-21T11:21:42Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Cambridgeshire",
+    "Crime News",
+    "Weird news"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/priest-forgives-drunk-british-tourists-stealing-smashing-golden-jesus-statue-29808680/",
+   "title": "Priest forgives ‘drunk British tourists’ for stealing and smashing golden Jesus statue",
+   "published": "2026-11-21T11:18:26Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "World",
+    "Crime News",
+    "Lithuania",
+    "Vilnius"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/britains-least-used-train-station-a-ghost-stop-sees-94-people-a-year-29807135/",
+   "title": "Britain’s least used train station is a ‘ghost’ stop that sees only 94 people a year",
+   "published": "2026-11-21T11:00:37Z",
+   "author": "Maicey Navarro Griffiths",
+   "categories": [
+    "Lifestyle",
+    "Travel",
+    "Manchester",
+    "Network Rail",
+    "Rail",
+    "Stockport",
+    "Travel News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/elizabeth-holmes-real-story-behind-can-see-everything-29804276/",
+   "title": "Who is Elizabeth Holmes? The real story behind Nathan Fielder’s You Can See Everything",
+   "published": "2026-11-21T11:00:00Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "Documentaries",
+    "US film",
+    "US Showbiz news"
+   ],
+   "summary": "You Can See Everything was filmed in top secret.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/alpha-sadist-jailed-torturing-vulnerable-british-woman-death-29808774/",
+   "title": "‘Alpha sadist’ jailed for torturing vulnerable British woman to death",
+   "published": "2026-11-21T10:55:58Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/bayern-munich-claim-no-club-buy-jamal-musiala-due-health-condition-29808726/",
+   "title": "Bayern Munich board member claims ‘no club would buy’ Jamal Musiala due to health condition",
+   "published": "2026-11-21T10:51:12Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Bayern Munich FC",
+    "Bundesliga",
+    "Champions League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/im-a-celebrity-fans-say-one-campmates-behaviour-making-uncomfortable-29808686/",
+   "title": "I’m a Celebrity fans say one campmate’s behaviour is making them ‘uncomfortable’",
+   "published": "2026-11-21T10:45:23Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "I'm A Celebrity",
+    "Mariella Frostrup"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/law-order-boardwalk-empire-star-e-j-carroll-dies-suddenly-aged-66-29808729/",
+   "title": "Law & Order and Boardwalk Empire star E.J. Carroll dies suddenly aged 66",
+   "published": "2026-11-21T10:01:35Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Celebrity Deaths",
+    "US TV news"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/gloriously-unfashionable-90s-drink-brits-love-pubs-refuse-serve-29802219/",
+   "title": "The ‘gloriously unfashionable’ 90s drink Brits love but some pubs refuse to serve",
+   "published": "2026-11-21T10:00:00Z",
+   "author": "Robertson Buckhaven",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "90s nostalgia",
+    "Alcohol",
+    "Drink Up",
+    "Drinks",
+    "Pubs"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/woman-raped-cycle-path-police-launch-investigation-29808720/",
+   "title": "Woman raped on cycle path as police launch investigation",
+   "published": "2026-11-21T09:42:32Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Sexual Violence"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/russell-brand-makes-disturbing-admission-court-documents-plans-appeal-29808663/",
+   "title": "Russell Brand makes disturbing admission in court documents as he considers appeal",
+   "published": "2026-11-21T09:22:39Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Russell Brand"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/dylans-emmerdale-secret-revealed-paddy-mandy-shocked-29795901/",
+   "title": "Dylan’s secret is revealed and Emmerdale’s Paddy and Mandy are shocked",
+   "published": "2026-11-21T09:00:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Dominic Brunt",
+    "Dylan Penders",
+    "Fred Kettle",
+    "Lisa Riley",
+    "Mandy Dingle",
+    "Paddy Kirk"
+   ],
+   "summary": "They knew something was up.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/eastenders-denise-makes-risky-promise-getting-devastating-cancer-news-29795119/",
+   "title": "EastEnders’ Denise makes risky promise after getting devastating cancer news",
+   "published": "2026-11-21T09:00:00Z",
+   "author": "Ash Percival",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Denise Fox",
+    "Diane Parish",
+    "Jack Branning",
+    "Scott Maslen"
+   ],
+   "summary": "There are more heartbreaking scenes ahead.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/former-bodybuilder-left-unable-work-catching-tb-asylum-centre-29808673/",
+   "title": "Former bodybuilder left unable to work after catching TB in asylum centre",
+   "published": "2026-11-21T08:42:00Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Home Office",
+    "Kent"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/man-dies-electrocuted-hanging-christmas-tree-lights-london-shopping-centre-29808674/",
+   "title": "Man dies after being electrocuted while hanging Christmas tree lights in London shopping centre",
+   "published": "2026-11-21T08:18:28Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/robert-pattinsons-staggering-net-worth-set-cash-james-bond-29804196/",
+   "title": "Robert Pattinson’s staggering net worth as he’s set to cash in with James Bond",
+   "published": "2026-11-21T08:00:00Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "James Bond",
+    "Robert Pattinson"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/what-i-own-i-quit-london-at-48-and-bought-my-first-home-in-sussex-for-325000-29805335/",
+   "title": "What I Own: I quit London at 48 and bought my first home in Sussex for £325,000",
+   "published": "2026-11-21T08:00:00Z",
+   "author": "Eleanor Noyce",
+   "categories": [
+    "Lifestyle",
+    "Property",
+    "East Sussex",
+    "Housing",
+    "Property Prices",
+    "What I Own"
+   ],
+   "summary": "Patrick became a first-time buyer just before he turned 50.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/harry-kane-injury-bayern-munich-england-striker-facing-months-29808657/",
+   "title": "Harry Kane injury: Bayern Munich and England striker facing ‘months’ out",
+   "published": "2026-11-21T07:47:51Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Bayern Munich FC",
+    "Bundesliga",
+    "England men's football team",
+    "Harry Kane"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/paedophile-gary-glitter-82-makes-one-last-bid-freedom-29808531/",
+   "title": "Paedophile Gary Glitter, 82, makes ‘one last bid for freedom’",
+   "published": "2026-11-21T07:33:49Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Gary Glitter"
+   ],
+   "summary": "The 'remorseless' abuser has been denied parole twice.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/tulisa-i-went-hell-one-famous-friend-put-line-me-29803281/",
+   "title": "Tulisa: ‘I went through hell – but one famous friend put himself on the line for me’",
+   "published": "2026-11-21T07:00:00Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Exclusive",
+    "The X Factor",
+    "Tulisa Contostavlos"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/a-giant-planet-just-disappeared-astronomers-know-29800740/",
+   "title": "A giant planet just disappeared – and astronomers know why",
+   "published": "2026-11-21T07:00:00Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "Nasa",
+    "Space"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/opi-cuts-35-off-bubble-bath-nail-treatments-black-friday-29790281/",
+   "title": "OPI slashes 35% off everything from Bubble Bath to nail strengtheners for Black Friday",
+   "published": "2026-11-21T07:00:00Z",
+   "author": "Louise Whitbread",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Beauty Products",
+    "Black Friday",
+    "Fashion",
+    "High Street",
+    "Metro newspaper"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/full-list-post-offices-closing-this-month-2027-29798659/",
+   "title": "Full list of Post Offices closing this month and into 2027",
+   "published": "2026-11-21T06:00:00Z",
+   "author": "Fabio Crispim",
+   "categories": [
+    "News",
+    "UK",
+    "High Street",
+    "Post Office",
+    "Store Closures"
+   ],
+   "summary": "Over a dozen Post Office branches are closing across the UK through to 2027.",
+   "image": null,
+   "first_seen": "2026-11-21T12:43:49.258025Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/21/attending-pokemon-night-edm-concert-adults-readers-feature-29808599/",
    "title": "Attending Pokémon Night Out: the EDM concert for adults – Reader’s Feature",
