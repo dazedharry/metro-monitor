@@ -1,10 +1,431 @@
 {
- "generated_at": "2026-11-22T07:07:21.812636Z",
+ "generated_at": "2026-11-22T15:24:30.347974Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 246,
+ "count": 272,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/22/whatsapp-scams-rise-need-know-29809899/",
+   "title": "WhatsApp scams are on the rise – here’s what you need to know",
+   "published": "2026-11-22T14:42:39Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "WhatsApp"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/preschool-teachers-gave-napping-children-sleep-gummies-knocked-out-29809540/",
+   "title": "Preschool teachers ‘gave napping children sleep gummies’ that ‘knocked them out’",
+   "published": "2026-11-22T14:27:44Z",
+   "author": "Craig Munro",
+   "categories": [
+    "News",
+    "US",
+    "California"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/manchester-get-underground-look-like-29809905/",
+   "title": "Another UK city could get its own underground – here’s what it could look like",
+   "published": "2026-11-22T14:24:13Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Andy Burnham",
+    "Department for Transport",
+    "Manchester"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/tiny-new-species-flying-frog-lays-eggs-goo-found-living-mountains-29809790/",
+   "title": "Tiny new species of flying frog that lays eggs in goo found living in mountains",
+   "published": "2026-11-22T14:12:00Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "World",
+    "Animals",
+    "Indonesia"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/roy-keane-names-arsenals-biggest-rivals-premier-league-title-29809953/",
+   "title": "Roy Keane names Arsenal’s biggest rivals for the Premier League title",
+   "published": "2026-11-22T14:09:35Z",
+   "author": "James Goldman",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Brighton & Hove Albion",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/first-picture-teenager-19-killed-hit-bmw-outside-a-e-29809901/",
+   "title": "First picture of teenager, 19, killed after being hit by BMW outside A&E",
+   "published": "2026-11-22T14:02:24Z",
+   "author": "Luke Alsford",
+   "categories": [
+    "News",
+    "UK",
+    "Death"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/man-stalked-raped-ex-granted-prison-leave-three-years-29809818/",
+   "title": "Woman stalked and raped by ex fumes as he’s granted prison leave after just three years",
+   "published": "2026-11-22T13:55:22Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Lancashire",
+    "Prisons",
+    "Sexual harassment"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/arsenal-closely-monitoring-29m-germany-defender-29809900/",
+   "title": "Arsenal ‘closely monitoring’ £29m Germany defender",
+   "published": "2026-11-22T13:47:02Z",
+   "author": "Metro Transfer News Reporter",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Arsenal transfer news",
+    "Liverpool FC",
+    "Liverpool Transfer News",
+    "Premier League",
+    "Stuttgart",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/itv-launches-probe-coronation-streets-jacob-roberts-foul-mouthed-abuse-night-29809856/",
+   "title": "ITV ‘launches probe’ into Coronation Street’s Jacob Roberts after foul-mouthed abuse during night out",
+   "published": "2026-11-22T13:34:10Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "ITV",
+    "Jacob Roberts",
+    "Kit Green",
+    "Soaps Showbiz"
+   ],
+   "summary": "He hurled misogynistic insults at women while trying to force his way into a bar.",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/extremely-disturbing-messages-holly-willoughby-kidnap-plot-shown-new-documentary-29809644/",
+   "title": "‘Extremely disturbing’ messages from Holly Willoughby kidnap plot shown in new documentary",
+   "published": "2026-11-22T13:00:46Z",
+   "author": "Tori Brazier",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Channel 4",
+    "Documentaries",
+    "Holly Willoughby"
+   ],
+   "summary": "Channel 4 interviews the US investigator who raised the alarm against Gavin Plumb.",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/ex-cop-admits-killing-jogger-claims-god-told-to-29809764/",
+   "title": "Ex-cop ‘admits’ to killing jogger and ‘claims God told him to’",
+   "published": "2026-11-22T13:00:04Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "US",
+    "Crime News",
+    "New York"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/sky-sports-apology-david-raya-arsenal-goalkeeper-suffers-injury-29809841/",
+   "title": "Sky Sports apology to David Raya after Arsenal goalkeeper suffers worrying injury",
+   "published": "2026-11-22T12:45:26Z",
+   "author": "Metro Sport Reporter",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/team-gb-basketball-star-charged-11-counts-rape-29809814/",
+   "title": "Team GB basketball star charged with 11 counts of rape",
+   "published": "2026-11-22T12:27:15Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Paralympics"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/big-gay-holiday-proves-vegas-clubs-casinos-29804339/",
+   "title": "The ‘big gay holiday’ that proves Vegas is more than clubs and casinos",
+   "published": "2026-11-22T12:00:00Z",
+   "author": "Adam Miller",
+   "categories": [
+    "Lifestyle",
+    "Travel",
+    "Jennifer Lopez",
+    "Las Vegas",
+    "LGBTQ+",
+    "Travel Inspiration",
+    "Travel Reviews",
+    "United States of America"
+   ],
+   "summary": "Adam Miller thought he was finished with Vegas until a different kind of trip showed him a new side",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/titanic-survivors-extremely-rare-engagement-ring-sells-150-000-auction-29809659/",
+   "title": "Titanic survivor’s ‘extremely rare’ engagement ring sells for £150,000 at auction",
+   "published": "2026-11-22T11:22:21Z",
+   "author": "Luke Alsford",
+   "categories": [
+    "News",
+    "UK",
+    "Titanic"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/former-chelsea-man-makes-xabi-alonso-sack-prediction-disgusting-leeds-loss-29809709/",
+   "title": "Former Chelsea man makes Xabi Alonso sack prediction after ‘disgusting’ Leeds loss",
+   "published": "2026-11-22T11:18:36Z",
+   "author": "Phil Haigh",
+   "categories": [
+    "Football",
+    "Sport",
+    "Chelsea FC",
+    "Leeds United",
+    "Xabi Alonso"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/lived-a-nursing-home-twenties-29722191/",
+   "title": "Why I lived in a nursing home in my twenties",
+   "published": "2026-11-22T11:00:00Z",
+   "author": "Sarah Ingram",
+   "categories": [
+    "Lifestyle",
+    "Alzheimer's",
+    "Features"
+   ],
+   "summary": "Rather than partying and drinking away his early adulthood, Teun decided to expereince living in a care home for himself",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/im-completely-gender-less-name-proves-29800570/",
+   "title": "I’m completely gender-less – and my name proves it",
+   "published": "2026-11-22T11:00:00Z",
+   "author": "Jayme Serbell",
+   "categories": [
+    "Families",
+    "Lifestyle",
+    "Family",
+    "First Person",
+    "Gender",
+    "LGBTQ+",
+    "Mums",
+    "Parenting",
+    "Real Life"
+   ],
+   "summary": "I’m raising my children to be exactly who they are.",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/im-suddenly-worried-delta-goodrem-strictly-come-dancing-29809728/",
+   "title": "I’m suddenly worried for Delta Goodrem on Strictly Come Dancing",
+   "published": "2026-11-22T10:51:56Z",
+   "author": "Adam Miller",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Delta Goodrem",
+    "Kai Widdrington",
+    "Opinion",
+    "Strictly Come Dancing"
+   ],
+   "summary": "It's always a curse to start Strictly as strong as she has.",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/madeleine-mccann-suspect-told-fellow-prisoner-killed-little-blonde-girl-29809597/",
+   "title": "Madeleine McCann suspect ‘told fellow prisoner he killed little blonde girl’",
+   "published": "2026-11-22T10:39:25Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "World",
+    "Germany",
+    "Madeleine McCann"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/thomas-markles-relative-says-girls-trips-asia-open-secret-29809604/",
+   "title": "Thomas Markle’s relative says ‘girls’ trips to Asia were an open secret",
+   "published": "2026-11-22T10:31:38Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "US",
+    "Meghan Markle Duchess of Sussex",
+    "Royal Family",
+    "Thomas Markle"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/i-became-a-mum-forgot-was-29786648/",
+   "title": "‘I became a mum and forgot who I was’",
+   "published": "2026-11-22T10:17:23Z",
+   "author": "Izzie Price",
+   "categories": [
+    "Families",
+    "Lifestyle",
+    "Depression",
+    "Family",
+    "Mental health",
+    "Mums",
+    "Real Life"
+   ],
+   "summary": "‘I just had to do what I could for George, all the time. I never did anything for myself. I couldn’t even brush my teeth sometimes.’",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/9-christmas-markets-ice-skating-spots-visit-london-this-winter-29786980/",
+   "title": "9 Christmas markets and ice skating spots to visit in London this winter",
+   "published": "2026-11-22T10:00:00Z",
+   "author": "Maicey Navarro Griffiths",
+   "categories": [
+    "Lifestyle",
+    "Travel",
+    "Christmas",
+    "London",
+    "Travel Inspiration",
+    "UK Travel",
+    "Weekend"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/joanna-page-complained-sexually-bullied-actor-itv-show-29809533/",
+   "title": "Joanna Page complained after being ‘sexually bullied’ by actor on ITV show",
+   "published": "2026-11-22T09:55:43Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "I'm A Celebrity",
+    "ITV",
+    "Joanna Page"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/bruno-fernandes-reveals-stance-new-contract-manchester-united-future-29809640/",
+   "title": "Bruno Fernandes reveals his stance on new contract and Manchester United future",
+   "published": "2026-11-22T09:47:39Z",
+   "author": "Phil Haigh",
+   "categories": [
+    "Football",
+    "Sport",
+    "Bruno Fernandes",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Mauricio Pochettino"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/man-dies-gang-thieves-attack-jewellery-store-break-in-29809617/",
+   "title": "Man dies after ‘gang of thieves attack him in jewellery store break-in’",
+   "published": "2026-11-22T09:32:19Z",
+   "author": "Luke Alsford",
+   "categories": [
+    "News",
+    "UK",
+    "Cambridgeshire",
+    "Crime News",
+    "Death"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T15:24:30.347974Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/22/ultimate-black-friday-beauty-deal-skin-includes-25-off-medik8-29790591/",
    "title": "We’ve found the ultimate Black Friday beauty deal for your skin – and it includes 25% off Medik8",
