@@ -1,10 +1,350 @@
 {
- "generated_at": "2026-11-22T15:24:30.347974Z",
+ "generated_at": "2026-11-22T21:51:15.359050Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 272,
+ "count": 292,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/22/gary-neville-makes-arsenal-title-claim-liverpool-thrash-manchester-united-29810574/",
+   "title": "Gary Neville makes Arsenal title claim after Liverpool thrash Manchester United",
+   "published": "2026-11-22T21:10:03Z",
+   "author": "Louis Sealey",
+   "categories": [
+    "Football",
+    "Sport",
+    "Andoni Iraola",
+    "Arsenal",
+    "Gary Neville",
+    "Liverpool FC",
+    "Manchester United",
+    "Mauricio Pochettino",
+    "Mikel Arteta",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/ukrainian-man-charged-raping-woman-brighton-beach-29810517/",
+   "title": "Ukrainian man charged with raping woman on Brighton beach",
+   "published": "2026-11-22T21:00:55Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Brighton",
+    "Sexual harassment"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/jamie-carragher-felt-sorry-man-utd-star-liverpool-defeat-29810483/",
+   "title": "Jamie Carragher ‘felt sorry’ for Manchester United star during Liverpool defeat",
+   "published": "2026-11-22T20:46:20Z",
+   "author": "Louis Sealey",
+   "categories": [
+    "Football",
+    "Sport",
+    "Andoni Iraola",
+    "Jamie Carragher",
+    "Liverpool FC",
+    "Manchester United",
+    "Mauricio Pochettino",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/far-right-terrorist-planned-firebomb-migrant-hotel-29810430/",
+   "title": "Far right terrorist planned to firebomb migrant hotel",
+   "published": "2026-11-22T20:18:20Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Adolf Hitler",
+    "Crime News",
+    "Immigration",
+    "Migrants",
+    "Refugees"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/strictly-come-dancing-viewers-blast-crazy-decision-eighth-couple-eliminated-29809955/",
+   "title": "Strictly Come Dancing viewers blast ‘crazy decision’ as eighth couple eliminated",
+   "published": "2026-11-22T20:00:00Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Carlos Gu",
+    "Delta Goodrem",
+    "Jaime Winstone",
+    "Kai Widdrington",
+    "Strictly Come Dancing"
+   ],
+   "summary": "Fans called the bottom two 'absolutely absurd'.",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/florian-wirtz-shuts-arsenal-claim-liverpool-thrash-man-utd-29810424/",
+   "title": "Florian Wirtz shuts down Arsenal claim after Liverpool thrash Man Utd",
+   "published": "2026-11-22T19:34:20Z",
+   "author": "Tom Olver",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Florian Wirtz",
+    "Liverpool FC",
+    "Manchester United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/andoni-iraola-makes-premier-league-title-claim-liverpool-thrash-man-utd-29810436/",
+   "title": "Andoni Iraola makes Premier League title claim after Liverpool thrash Man Utd",
+   "published": "2026-11-22T19:17:46Z",
+   "author": "James Goldman",
+   "categories": [
+    "Football",
+    "Sport",
+    "Andoni Iraola",
+    "Liverpool FC",
+    "Manchester United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/mauricio-pochettino-slams-unfair-decision-liverpool-thrash-manchester-united-29810425/",
+   "title": "Mauricio Pochettino slams ‘unfair’ decision after Man Utd’s defeat to Liverpool",
+   "published": "2026-11-22T19:03:07Z",
+   "author": "Louis Sealey",
+   "categories": [
+    "Football",
+    "Sport",
+    "Andoni Iraola",
+    "Liverpool FC",
+    "Manchester United",
+    "Mauricio Pochettino",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/police-swarm-weatherfield-lily-goes-missing-bloody-corrie-discovery-29801123/",
+   "title": "Police swarm Weatherfield as Lily goes missing after bloody Coronation Street discovery",
+   "published": "2026-11-22T19:00:00Z",
+   "author": "Maisie Spackman",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "David Platt",
+    "Jack P. Shepherd",
+    "Jodie Ramsey",
+    "Julia Goulding",
+    "Olivia Frances-Brown",
+    "Shona Platt"
+   ],
+   "summary": "The Platt family are beside themselves with worry.",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/bruce-willis-daughter-apologises-posting-photo-too-intimate-29810306/",
+   "title": "Bruce Willis’ daughter apologises for posting photo of him that was ‘too intimate’",
+   "published": "2026-11-22T18:07:53Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Bruce Willis",
+    "Demi Moore",
+    "US Showbiz news"
+   ],
+   "summary": "She deleted her post.",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/nearly-2-000-met-officers-forced-leave-four-years-failing-meet-standards-29810278/",
+   "title": "Nearly 2,000 Met Officers forced to leave in four years after failing to meet standards",
+   "published": "2026-11-22T18:04:29Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Metropolitan Police"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/angela-scanlon-reveals-dermot-olearys-explicit-reaction-new-radio-2-job-29810181/",
+   "title": "Angela Scanlon reveals Dermot O’Leary’s explicit reaction to new Radio 2 job",
+   "published": "2026-11-22T17:30:56Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Angela Scanlon",
+    "BBC",
+    "Dermot O'Leary",
+    "Radio",
+    "Sara Cox"
+   ],
+   "summary": "Cheeky!",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/man-utd-legend-gary-neville-questions-mauricio-pochettino-decision-liverpool-29810196/",
+   "title": "Man Utd legend Gary Neville questions Mauricio Pochettino decision against Liverpool",
+   "published": "2026-11-22T17:19:53Z",
+   "author": "Tom Olver",
+   "categories": [
+    "Football",
+    "Sport",
+    "Gary Neville",
+    "Leny Yoro",
+    "Liverpool FC",
+    "Manchester United",
+    "Matthijs de Ligt",
+    "Mauricio Pochettino",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/putins-prized-20million-warship-merkury-explodes-dawn-drone-strike-mediterranean-port-29810138/",
+   "title": "Putin’s prized £150million warship Merkury explodes after ‘dawn drone strike in Mediterranean port’",
+   "published": "2026-11-22T17:04:21Z",
+   "author": "Barney Davis",
+   "categories": [
+    "News",
+    "World",
+    "Libya",
+    "Russia-Ukraine war"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/it-tore-family-apart-terrifying-true-story-behind-bbcs-new-ghost-drama-29806097/",
+   "title": "‘It tore her family apart’: The terrifying true story behind BBC’s new ghost drama",
+   "published": "2026-11-22T17:00:00Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Exclusive"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/emmerdales-kim-gets-shock-life-steve-returns-tortures-29790847/",
+   "title": "Emmerdale’s Kim gets the shock of her life as Steve returns and tortures her",
+   "published": "2026-11-22T17:00:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Claire King",
+    "Kim Tate",
+    "Paul Opacic",
+    "Steve Marchant"
+   ],
+   "summary": "Not exactly a welcome return.",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/man-30s-fighting-life-attack-outside-nightclub-29810147/",
+   "title": "Man fighting for his life after attack outside Bristol nightclub",
+   "published": "2026-11-22T16:41:40Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Bristol",
+    "Crime News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/chelsea-stance-making-shock-xabi-alonso-sack-decision-29810054/",
+   "title": "Chelsea stance on making shock Xabi Alonso sack decision",
+   "published": "2026-11-22T16:12:10Z",
+   "author": "Metro Transfer News Reporter",
+   "categories": [
+    "Football",
+    "Sport",
+    "Chelsea FC",
+    "Chelsea transfer news",
+    "Transfer News and Rumours",
+    "Xabi Alonso"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/capitol-riot-leader-trump-tat-done-traitor-president-29810039/",
+   "title": "Capitol riot ringleader with Trump tattoo says he’s ‘done’ with ‘traitor’ president",
+   "published": "2026-11-22T15:58:18Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Donald Trump",
+    "Republican Party"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/russell-brands-proud-wife-laura-gallacher-posts-new-video-defending-family-backlash-29810056/",
+   "title": "Russell Brand’s ‘proud wife’ Laura Gallacher posts new video defending family after backlash",
+   "published": "2026-11-22T15:49:59Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Russell Brand"
+   ],
+   "summary": "Brand was accused of 'retraumatising' his victims with his platform.",
+   "image": null,
+   "first_seen": "2026-11-22T21:51:15.359050Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/22/whatsapp-scams-rise-need-know-29809899/",
    "title": "WhatsApp scams are on the rise – here’s what you need to know",
