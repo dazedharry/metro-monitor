@@ -1,10 +1,136 @@
 {
- "generated_at": "2026-11-21T20:08:28.645001Z",
+ "generated_at": "2026-11-22T00:22:47.578282Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 235,
+ "count": 242,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/22/daily-horoscope-november-22-2026-predictions-star-sign-29808405/",
+   "title": "Daily horoscope November 22, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-22T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/joanna-page-shares-ruth-joness-harsh-feedback-gavin-stacey-audition-29809290/",
+   "title": "Joanna Page shares Ruth Jones’s harsh feedback at Gavin and Stacey audition",
+   "published": "2026-11-21T22:00:00Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Gavin and Stacey",
+    "Joanna Page",
+    "Ruth Jones"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/minister-corrects-blunder-confusing-crisps-soft-porn-magazine-29809387/",
+   "title": "Minister corrects blunder after confusing crisps for soft porn magazine",
+   "published": "2026-11-21T21:31:16Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Krishnan Guru-Murthy",
+    "Labour Party",
+    "Walkers crisps"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/eastenders-cast-exits-entire-family-wiped-29809398/",
+   "title": "More EastEnders cast exits confirmed as entire family is wiped",
+   "published": "2026-11-21T21:14:36Z",
+   "author": "Duncan Lindsay",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Aaron Thiara",
+    "Avani Nandra-Hart",
+    "Ravi Gulati"
+   ],
+   "summary": "It's the end of the line for yet more cast",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/ian-wright-orders-arsenal-buy-67m-star-january-following-newcastle-draw-29809394/",
+   "title": "Ian Wright orders Arsenal to buy £67m star in January following Newcastle draw",
+   "published": "2026-11-21T20:56:41Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Arsenal transfer news",
+    "Ian Wright",
+    "Newcastle United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/hotel-chocolat-recalls-several-christmas-products-salmonella-warning-29809373/",
+   "title": "Hotel Chocolat recalls several Christmas products after Salmonella warning",
+   "published": "2026-11-21T20:44:55Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "News",
+    "UK",
+    "Chocolate",
+    "Christmas",
+    "Food recalls"
+   ],
+   "summary": "It's a 'precautionary measure'.",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/21/david-raya-injury-update-mikel-arteta-admits-not-good-news-arsenal-star-29809327/",
+   "title": "David Raya injury update as Mikel Arteta admits it’s ‘not good news’ for Arsenal star",
+   "published": "2026-11-21T20:17:01Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "Kepa Arrizabalaga",
+    "Newcastle United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T00:22:47.578282Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/21/suffolk-village-votes-leave-uk-plans-asylum-camp-raf-base-29809314/",
    "title": "Suffolk village votes to ‘leave’ UK over plans for asylum camp at RAF base",
@@ -355,7 +481,7 @@
   },
   {
    "link": "https://metro.co.uk/2026/11/21/strictly-star-finally-reveals-mystery-illness-led-hospital-dash-29808979/",
-   "title": "Strictly star finally reveals mystery illness that led to hospital dash",
+   "title": "Strictly star declares ‘it’s nice to be back’ after mystery illness led to hospital dash",
    "published": "2026-11-21T14:48:17Z",
    "author": "Emily Bashforth",
    "categories": [
