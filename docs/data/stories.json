@@ -1,10 +1,85 @@
 {
- "generated_at": "2026-11-22T00:22:47.578282Z",
+ "generated_at": "2026-11-22T07:07:21.812636Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 242,
+ "count": 246,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/22/ultimate-black-friday-beauty-deal-skin-includes-25-off-medik8-29790591/",
+   "title": "We’ve found the ultimate Black Friday beauty deal for your skin – and it includes 25% off Medik8",
+   "published": "2026-11-22T07:00:00Z",
+   "author": "Scott Da Silva-Wells",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Beauty Products",
+    "Black Friday",
+    "Metro newspaper",
+    "Skincare"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T07:07:21.812636Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/weekly-tarot-horoscope-reading-november-23-november-29-2026-29804602/",
+   "title": "Your star sign’s weekly tarot horoscope reading for November 23 to November 29",
+   "published": "2026-11-22T04:00:00Z",
+   "author": "Kerry King",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Tarot",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "Get ready for a new week.",
+   "image": null,
+   "first_seen": "2026-11-22T07:07:21.812636Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/3-favourite-retro-computers-helped-become-a-gamer-readers-feature-29808630/",
+   "title": "My 3 favourite retro computers that helped me become a gamer – Reader’s Feature",
+   "published": "2026-11-22T02:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "80s nostalgia",
+    "Reader's Feature"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T07:07:21.812636Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/bought-two-vr-headsets-instead-nintendo-switch-2-readers-feature-29808620/",
+   "title": "Why I bought two VR headsets instead of Nintendo Switch 2 – Reader’s Feature",
+   "published": "2026-11-22T01:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Meta",
+    "Reader's Feature",
+    "VR Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-22T07:07:21.812636Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/22/daily-horoscope-november-22-2026-predictions-star-sign-29808405/",
    "title": "Daily horoscope November 22, 2026: Today’s predictions for your star sign",
