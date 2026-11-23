@@ -1,10 +1,252 @@
 {
- "generated_at": "2026-11-23T02:51:36.956130Z",
+ "generated_at": "2026-11-23T11:12:29.223880Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 296,
+ "count": 311,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/23/wendys-launches-new-christmas-box-meal-fans-claim-blows-mcdonalds-away-29812409/",
+   "title": "Wendy’s launches new Christmas box meal that fans claim ‘blows McDonald’s away’",
+   "published": "2026-11-23T11:11:15Z",
+   "author": "Courtney Pochin",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Fast food",
+    "Food Launches",
+    "Foodie",
+    "McDonald's"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/man-killed-hit-coach-carrying-holiday-makers-service-station-29812655/",
+   "title": "Man killed after being hit by coach carrying holiday makers at service station",
+   "published": "2026-11-23T11:06:07Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "UK",
+    "Death",
+    "Lancashire"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/inside-abandoned-theme-park-frozen-time-seoul-29807269/",
+   "title": "Inside the abandoned theme park frozen in time in Seoul",
+   "published": "2026-11-23T11:01:20Z",
+   "author": "Caroline Westbrook",
+   "categories": [
+    "News",
+    "World",
+    "abandoned",
+    "Theme parks"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/tenants-ealing-made-homeless-days-christmas-29812164/",
+   "title": "Tenants fear homelessness days before Christmas as ‘Scrooge-like’ eviction looms",
+   "published": "2026-11-23T10:54:20Z",
+   "author": "John Dunne",
+   "categories": [
+    "News",
+    "UK",
+    "Christmas",
+    "Homelessness",
+    "Housing",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/graffiti-targeting-celebrities-mundane-things-reappears-29812248/",
+   "title": "Graffiti targeting celebrities doing mundane things reappears",
+   "published": "2026-11-23T10:51:41Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "UK",
+    "Newcastle"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/gta-6-already-getting-backlash-metacritic-boring-gameplay-29812335/",
+   "title": "GTA 6 is already getting backlash on Metacritic over ‘boring’ gameplay",
+   "published": "2026-11-23T10:39:50Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Grand Theft Auto",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/audacious-drone-operation-sank-putins-prized-150-000-000-warship-29811962/",
+   "title": "The audacious drone operation that sank Putin’s prized £150,000,000 warship",
+   "published": "2026-11-23T10:35:10Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "World",
+    "Libya",
+    "Russia",
+    "Russia-Ukraine war",
+    "Ukraine"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/protect-black-friday-2026-online-shopping-29812506/",
+   "title": "How to protect yourself during Black Friday 2026 online shopping",
+   "published": "2026-11-23T10:29:57Z",
+   "author": "Courtney Pochin",
+   "categories": [
+    "Lifestyle",
+    "Money",
+    "Black Friday",
+    "Deals"
+   ],
+   "summary": "Retailers use sneaky tricks to manipulate your choices.",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/moment-pensioners-knocked-off-bikes-robbed-thugs-canal-path-attack10000000-29811814/",
+   "title": "Moment pensioners knocked off bikes and robbed by thugs in canal path attack",
+   "published": "2026-11-23T10:27:26Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Leeds"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/david-walliams-unearthed-diary-reveals-shame-behaviour-29811913/",
+   "title": "David Walliams’ unearthed diary reveals ‘shame’ over behaviour",
+   "published": "2026-11-23T10:13:17Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "David Walliams"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/ex-arsenal-star-nicolas-pepe-need-eye-surgery-staring-solar-eclipse-29812003/",
+   "title": "Did ex-Arsenal star Nicolas Pepe really need eye surgery after staring at solar eclipse?",
+   "published": "2026-11-23T10:06:26Z",
+   "author": "Tom Olver",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "La Liga",
+    "Nicolas Pepe",
+    "Solar eclipse",
+    "Villarreal"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/hollyoaks-confirms-devastating-miscarriage-pregnant-teen-collapses-woods-29812006/",
+   "title": "Hollyoaks confirms devastating miscarriage as young, pregnant teen collapses in the woods",
+   "published": "2026-11-23T10:00:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Hollyoaks",
+    "Soaps",
+    "Channel 4"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/mauricio-pochettino-explains-shock-team-selection-nightmare-first-man-utd-match-29811983/",
+   "title": "Mauricio Pochettino explains his shock team selection in nightmare first Man Utd match",
+   "published": "2026-11-23T09:57:34Z",
+   "author": "Phil Haigh",
+   "categories": [
+    "Sport",
+    "Gary Neville",
+    "Liverpool FC",
+    "Manchester United",
+    "Matthijs de Ligt",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/im-a-celebs-mariella-branded-vile-labelling-aj-odudu-aggressive-cooking-war-29811758/",
+   "title": "I’m A Celeb’s Mariella branded ‘vile’ after labelling AJ Odudu ‘aggressive’ in cooking war",
+   "published": "2026-11-23T09:32:01Z",
+   "author": "Danni Scott",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "I'm A Celebrity",
+    "Wayne Rooney"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/coronation-streets-cassie-confirmed-dead-ross-hand-fiz-makes-discovery-29811746/",
+   "title": "Coronation Street’s Cassie ‘confirmed dead by Ross’ hand’ as Fiz makes a harrowing discovery",
+   "published": "2026-11-23T09:23:11Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Cassie Plummer",
+    "Claire Sweeney",
+    "Fiz Dobbs",
+    "Ian Burfield",
+    "Jennie McAlpine",
+    "Ross Wilkes"
+   ],
+   "summary": "Cassie vanished earlier this year.",
+   "image": null,
+   "first_seen": "2026-11-23T11:12:29.223880Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/23/games-inbox-gta-6-deserve-success-29811552/",
    "title": "Games Inbox: Does GTA 6 deserve its success?",
