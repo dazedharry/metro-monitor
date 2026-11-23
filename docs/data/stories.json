@@ -1,10 +1,85 @@
 {
- "generated_at": "2026-11-22T21:51:15.359050Z",
+ "generated_at": "2026-11-23T02:51:36.956130Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 292,
+ "count": 296,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/23/games-inbox-gta-6-deserve-success-29811552/",
+   "title": "Games Inbox: Does GTA 6 deserve its success?",
+   "published": "2026-11-23T01:10:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games Inbox",
+    "GTA 6",
+    "Rockstar Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T02:51:36.956130Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/sensible-band-go-war-musical-legacy-cannon-fodder-29811544/",
+   "title": "Sensible Band go to War – the musical legacy of Cannon Fodder",
+   "published": "2026-11-23T01:00:00Z",
+   "author": "Steve Boxer",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "90s nostalgia",
+    "Games news"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T02:51:36.956130Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/daily-horoscope-november-23-2026-predictions-star-sign-29808406/",
+   "title": "Daily horoscope November 23, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-23T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T02:51:36.956130Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/22/wayne-rooney-centre-im-a-celebrity-kick-off-clashes-mariella-frostrup-29810459/",
+   "title": "Wayne Rooney at centre of I’m A Celebrity ‘kick-off’ as he clashes with Mariella Frostrup",
+   "published": "2026-11-22T22:30:00Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "I'm A Celebrity",
+    "ITV",
+    "Mariella Frostrup",
+    "Wayne Rooney"
+   ],
+   "summary": "'I am relaxed!', she insisted.",
+   "image": null,
+   "first_seen": "2026-11-23T02:51:36.956130Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/22/gary-neville-makes-arsenal-title-claim-liverpool-thrash-manchester-united-29810574/",
    "title": "Gary Neville makes Arsenal title claim after Liverpool thrash Manchester United",
