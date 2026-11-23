@@ -1,10 +1,197 @@
 {
- "generated_at": "2026-11-23T11:12:29.223880Z",
+ "generated_at": "2026-11-23T12:57:56.095180Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 311,
+ "count": 324,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/23/final-great-british-bake-off-2026-meet-three-finalists-29813138/",
+   "title": "Who’s in the final of The Great British Bake Off 2026? Meet the three finalists",
+   "published": "2026-11-23T12:50:00Z",
+   "author": "Sabrina Barr",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Channel 4",
+    "The Great British Bake Off"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/locals-forced-sell-cars-council-scheme-rakes-1-000-000-29812914/",
+   "title": "Fuming locals ‘forced to sell cars’ as council driving scheme rakes in over £1,000,000",
+   "published": "2026-11-23T12:28:13Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "London",
+    "School"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/gta-6-biggest-entertainment-launch-history-2-890-000-000-24-hours-29812771/",
+   "title": "GTA 6 is ‘biggest entertainment launch in history’ at £2,890,000,000 in 24 hours",
+   "published": "2026-11-23T12:04:18Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/im-a-celebrity-bosses-speak-mariella-frostrup-language-aj-odudu-29812881/",
+   "title": "I’m A Celebrity bosses ‘speak to Mariella Frostrup over language to AJ Odudu’",
+   "published": "2026-11-23T11:55:00Z",
+   "author": "Sabrina Barr",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "I'm A Celebrity",
+    "ITV",
+    "ITVX",
+    "Mariella Frostrup"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/fined-105-stopping-car-help-choking-wife-29811725/",
+   "title": "I was fined £105 for stopping the car to help my choking wife",
+   "published": "2026-11-23T11:49:52Z",
+   "author": "Metro News Reporter",
+   "categories": [
+    "News",
+    "UK",
+    "Kent",
+    "Motoring"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/iranian-strikes-reach-highest-levels-since-february-happen-next-29811745/",
+   "title": "Iranian strikes reach highest levels since February – what could happen next?",
+   "published": "2026-11-23T11:49:45Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "World",
+    "Iran",
+    "Iran war",
+    "Middle East",
+    "Strait of Hormuz",
+    "United States of America"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/scientists-may-found-a-new-planet-solar-system-look-like-29812191/",
+   "title": "Scientists may have found a new planet in our solar system – here’s what it could look like",
+   "published": "2026-11-23T11:42:26Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "Space"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/christmas-market-branded-ai-slop-new-willy-wonka-experience-29811808/",
+   "title": "Christmas market advertised with ‘AI slop’ could be new Willy Wonka experience",
+   "published": "2026-11-23T11:32:32Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Artificial Intelligence",
+    "Christmas",
+    "Cornwall"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/warning-youth-throws-stone-police-car-bridge-m1-29812641/",
+   "title": "Drivers warned after youth throws stones off motorway bridge on M1",
+   "published": "2026-11-23T11:27:22Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Derbyshire"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/man-utd-stars-will-need-a-slap-agree-gary-neville-relegation-claim-29812018/",
+   "title": "Manchester United players will need a slap if they agree with Gary Neville relegation prediction",
+   "published": "2026-11-23T11:24:38Z",
+   "author": "James Goldman",
+   "categories": [
+    "Football",
+    "Sport",
+    "Gary Neville",
+    "Manchester United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/semi-pro-biker-dies-five-minutes-110mph-crash-29812342/",
+   "title": "Semi-pro biker dies for five minutes after crashing into ambulance at 110mph",
+   "published": "2026-11-23T11:12:55Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Wales"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/ai-hacking-spree-sees-14-companies-attacked-anything-next-target-29809816/",
+   "title": "AI hacking spree sees 14 companies attacked and ‘anything could be next target’",
+   "published": "2026-11-23T11:12:44Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "Artificial Intelligence"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/23/wendys-launches-new-christmas-box-meal-fans-claim-blows-mcdonalds-away-29812409/",
    "title": "Wendy’s launches new Christmas box meal that fans claim ‘blows McDonald’s away’",
@@ -150,6 +337,22 @@
    "first_seen": "2026-11-23T11:12:29.223880Z"
   },
   {
+   "link": "https://metro.co.uk/2026/11/23/moment-pensioners-knocked-off-bikes-robbed-thugs-canal-path-attack-29811814/",
+   "title": "Pensioners knocked off bikes and robbed in canal path attack",
+   "published": "2026-11-23T10:27:26Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Leeds",
+    "West Yorkshire Police"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-23T12:57:56.095180Z"
+  },
+  {
    "link": "https://metro.co.uk/2026/11/23/david-walliams-unearthed-diary-reveals-shame-behaviour-29811913/",
    "title": "David Walliams’ unearthed diary reveals ‘shame’ over behaviour",
    "published": "2026-11-23T10:13:17Z",
@@ -183,7 +386,7 @@
   },
   {
    "link": "https://metro.co.uk/2026/11/23/hollyoaks-confirms-devastating-miscarriage-pregnant-teen-collapses-woods-29812006/",
-   "title": "Hollyoaks confirms devastating miscarriage as young, pregnant teen collapses in the woods",
+   "title": "Hollyoaks confirms devastating miscarriage as pregnant teen collapses in the woods",
    "published": "2026-11-23T10:00:00Z",
    "author": "Stephen Patterson",
    "categories": [
