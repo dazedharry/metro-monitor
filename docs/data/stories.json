@@ -1,10 +1,304 @@
 {
- "generated_at": "2026-11-23T18:08:27.284921Z",
+ "generated_at": "2026-11-24T00:57:35.072146Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 348,
+ "count": 365,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/24/daily-horoscope-november-24-2026-predictions-star-sign-29814707/",
+   "title": "Daily horoscope November 24, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-24T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "Today's full Moon in Gemini is in close proximity to Uranus, bringing a sense of urgency and restlessness to the day ahead.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/eastenders-max-rushed-hospital-cindys-fault-29812573/",
+   "title": "Max rushed to hospital in EastEnders – and it’s Cindy’s fault",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Ash Percival",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Cindy Beale",
+    "Jake Wood",
+    "Max Branning",
+    "Michelle Collins"
+   ],
+   "summary": "Cindy steps up her revenge plot.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/hollyoaks-double-wedding-soaps-unexpected-twist-possible-29813307/",
+   "title": "Hollyoaks’ double wedding has soap’s most unexpected twist possible",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Hollyoaks",
+    "Soaps",
+    "Frankie Osborne",
+    "Isabelle Smith"
+   ],
+   "summary": "Now that really is unexpected.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/emmerdale-star-reveals-tom-goes-darker-ever-visceral-plan-29801887/",
+   "title": "Emmerdale star reveals Tom goes darker than ever with ‘large and visceral’ plan confirmed",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Eden Taylor-Draper",
+    "James Chase",
+    "Tom King"
+   ],
+   "summary": "He's as dangerous as ever...",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/piper-may-toms-first-victim-beloved-emmerdale-bestie-goes-missing-29804510/",
+   "title": "Piper may be Tom’s first victim as our beloved Emmerdale bestie goes missing",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Eden Taylor-Draper",
+    "James Chase",
+    "Tom King"
+   ],
+   "summary": "What has that scumbag done to our little Piper?!",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/emmerdales-moira-cain-face-poisoning-trauma-life-line-29804880/",
+   "title": "Poisoning trauma for Emmerdale’s Moira and Cain with life on the line",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Cain Dingle",
+    "James Chase",
+    "Jeff Hordley",
+    "Moira Dingle",
+    "Natalie J Robb",
+    "Tom King"
+   ],
+   "summary": "Their rubbish year isn’t over yet.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/shockwaves-rock-walford-eastenders-ned-explodes-a-massive-bombshell-29811946/",
+   "title": "Shockwaves rock Walford as Ned explodes a massive bombshell in EastEnders",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Ash Percival",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Jamie Bamber",
+    "Laura Doddington",
+    "Ned Hawkins",
+    "Nicola Mitchell"
+   ],
+   "summary": "The Hawkins family are torn apart.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/coronation-streets-carla-betsy-team-destroy-idris-target-brody-29802175/",
+   "title": "Coronation Street’s Carla and Betsy team up to destroy Idris – and target Brody",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Maisie Spackman",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Alison King",
+    "Betsy Swain",
+    "Brody Michaelis",
+    "Carla Connor-Swain",
+    "Idris Nazir",
+    "Junade Khan",
+    "Ryan Mulvey",
+    "Sydney Martin"
+   ],
+   "summary": "They're women on a mission.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/police-swarm-coronation-street-christina-uncovers-a-murderous-truth-29803136/",
+   "title": "Police swarm on Coronation Street as Christina uncovers a murderous truth",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Amy Robbins",
+    "Anya Dewin",
+    "Christina Boyd",
+    "Lucy Parkinson"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/end-jodie-lily-coronation-street-shona-late-29803114/",
+   "title": "The end for Jodie and Lily on Coronation Street as Shona is too late",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Jodie Ramsey",
+    "Julia Goulding",
+    "Olivia Frances-Brown",
+    "Shona Platt"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/alarm-bells-ring-worrying-ant-turns-kathleen-angel-hollyoaks-29813911/",
+   "title": "Alarm bells ring as worrying Ant turns on Kathleen-Angel in Hollyoaks",
+   "published": "2026-11-23T23:59:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Hollyoaks",
+    "Soaps",
+    "Cleo McQueen"
+   ],
+   "summary": "There is concern sparked.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/im-a-celebritys-wayne-rooney-reveals-surprise-reason-reject-a-knighthood-29814518/",
+   "title": "I’m A Celebrity’s Wayne Rooney reveals surprise reason he’d reject a knighthood",
+   "published": "2026-11-23T22:30:00Z",
+   "author": "Brooke Ivey Johnson",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Coleen Rooney",
+    "I'm A Celebrity",
+    "Wayne Rooney"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/one-tonne-cocaine-hidden-oranges-east-london-fruit-market-29814739/",
+   "title": "One tonne of cocaine hidden in oranges at east London fruit market",
+   "published": "2026-11-23T22:24:29Z",
+   "author": "Barney Davis",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/boy-4-fatally-shoots-playing-gun-left-lying-around-home-29814630/",
+   "title": "Boy, 4, fatally shoots himself playing with gun left lying around home",
+   "published": "2026-11-23T20:49:35Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "World"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/jodies-wicked-scheme-pays-off-coronation-street-spoilers-reveal-next-29812439/",
+   "title": "Jodie’s wicked scheme pays off as Coronation Street spoilers reveal what happens next",
+   "published": "2026-11-23T20:00:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Jodie Ramsey",
+    "Olivia Frances-Brown"
+   ],
+   "summary": "She is fixated on Lily Platt.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/steves-declaration-bad-kim-emmerdale-spoilers-reveal-next-29811917/",
+   "title": "Steve’s declaration is very bad for Kim as Emmerdale spoilers reveal what happens next",
+   "published": "2026-11-23T19:45:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Chelsea Edge",
+    "Claire King",
+    "DS Thea Ramsden",
+    "Kim Tate",
+    "Paul Opacic",
+    "Steve Marchant"
+   ],
+   "summary": "He's causing trouble already.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/23/end-suki-eve-ash-shocker-eastenders-spoilers-reveal-happens-next-29812510/",
+   "title": "The end for Suki and Eve ‘confirmed’ after Ash shocker as EastEnders spoilers reveal what happens next",
+   "published": "2026-11-23T19:00:53Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Ash Panesar",
+    "Balvinder Sopal",
+    "Eve Panesar-Unwin",
+    "Heather Peace",
+    "Sakira Vel",
+    "Suki Panesar-Unwin"
+   ],
+   "summary": "The fallout confirmed.",
+   "image": null,
+   "first_seen": "2026-11-24T00:57:35.072146Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/23/mauricio-pochettino-wants-sign-reliable-option-cover-74m-man-utd-star-29814595/",
    "title": "Mauricio Pochettino wants to sign ‘reliable option’ to cover for £74m Man Utd star",
