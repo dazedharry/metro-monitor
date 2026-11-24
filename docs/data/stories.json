@@ -1,13 +1,203 @@
 {
- "generated_at": "2026-11-24T16:58:53.335152Z",
+ "generated_at": "2026-11-24T21:18:24.582714Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 399,
+ "count": 410,
  "stories": [
   {
+   "link": "https://metro.co.uk/2026/11/24/won-great-british-bake-off-2026-winner-announced-amazingly-tense-grand-finale-29815480/",
+   "title": "The Great British Bake Off 2026 winner announced after ‘amazingly tense’ grand finale",
+   "published": "2026-11-24T21:15:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Channel 4",
+    "Nigella Lawson",
+    "Paul Hollywood",
+    "The Great British Bake Off"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/teen-boy-stuck-tongue-a-selfie-stabbing-girl-50-times-29817498/",
+   "title": "Teen boy stuck tongue out for a selfie after ‘stabbing girl more than 50 times’",
+   "published": "2026-11-24T20:32:36Z",
+   "author": "Sam Corbishley",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/emmerdale-star-confirms-steves-revenge-kim-baby-thea-twist-29812658/",
+   "title": "Emmerdale star Paul Opacic confirms Steve Marchant’s brutal revenge on Kim Tate after mega baby Thea twist",
+   "published": "2026-11-24T20:30:00Z",
+   "author": "Duncan Lindsay",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Chelsea Edge",
+    "Claire King",
+    "DS Thea Ramsden",
+    "Kim Tate",
+    "Paul Opacic",
+    "Steve Marchant"
+   ],
+   "summary": "Steve's bombshell has left Kim stunned but he's not finished with her yet.",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/fizs-days-numbered-coronation-street-spoilers-reveal-happens-next-29814902/",
+   "title": "Fiz’s days numbered by Ross as Coronation Street spoilers reveal what happens next",
+   "published": "2026-11-24T20:00:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Alan Halsall",
+    "Fiz Dobbs",
+    "Ian Burfield",
+    "Jennie McAlpine",
+    "Ross Wilkes",
+    "Tyrone Dobbs"
+   ],
+   "summary": "She's got him sussed.",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/mikel-arteta-issues-david-raya-injury-update-arsenal-vs-borussia-dortmund-29817469/",
+   "title": "Mikel Arteta issues David Raya injury update before Arsenal vs Borussia Dortmund",
+   "published": "2026-11-24T19:46:28Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Champions League",
+    "David Raya",
+    "Kepa Arrizabalaga",
+    "Mikel Arteta",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/man-city-wear-special-edition-orange-kit-vs-napoli-champions-league-29817453/",
+   "title": "Man City wear ‘special edition’ orange kit vs Napoli in Champions League",
+   "published": "2026-11-24T19:20:55Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Champions League",
+    "Erling Haaland",
+    "Manchester City FC",
+    "Napoli"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/boyfriend-woman-20-vanished-dogwalk-charged-murder-29817421/",
+   "title": "Boyfriend of woman, 20, who vanished on dogwalk charged with her murder",
+   "published": "2026-11-24T18:58:05Z",
+   "author": "Barney Davis",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/hearsay-liberty-x-cancel-reunion-tour-weeks-announcement-hugely-disappointing-29817238/",
+   "title": "Hear’Say and Liberty X cancel reunion tour weeks after announcement: ‘Hugely disappointing’",
+   "published": "2026-11-24T18:38:34Z",
+   "author": "Barney Davis",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Music Tours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/pennys-baby-ethans-dad-confirmed-eastenders-spoilers-reveal-happens-next-29815526/",
+   "title": "Who is baby Ethan’s dad ‘confirmed’ as EastEnders spoilers reveal what happens next",
+   "published": "2026-11-24T18:05:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Elijah Holloway",
+    "Francesca Henry",
+    "Gina Knight",
+    "Harry Mitchell",
+    "Kitty Castledine",
+    "Penny Branning",
+    "Shiv Jalota",
+    "Vinny Panesar"
+   ],
+   "summary": "Answers at last.",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/rockstar-shuts-gta-6-pc-ports-xbox-build-leaks-29817217/",
+   "title": "Rockstar shuts down GTA 6 PC ports after Xbox build leaks",
+   "published": "2026-11-24T17:04:47Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "PC Games",
+    "Rockstar Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/emmerdale-clifftop-murder-confirmed-cast-film-horror-scenes-29814934/",
+   "title": "Emmerdale clifftop murder ‘confirmed’ as cast film horror scenes",
+   "published": "2026-11-24T17:00:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Eden Taylor-Draper",
+    "James Chase",
+    "Kammy Hadiq",
+    "Shebz Miah",
+    "Tom King"
+   ],
+   "summary": "Kammy's in big danger!",
+   "image": null,
+   "first_seen": "2026-11-24T21:18:24.582714Z"
+  },
+  {
    "link": "https://metro.co.uk/2026/11/24/greggs-fans-call-chain-too-big-boots-christmas-controversy-29816282/",
-   "title": "Greggs fans call chain ‘too big for their boots’ over Christmas controversy",
+   "title": "Bad news for Greggs fans as chain confirms ‘Christmas controversy’",
    "published": "2026-11-24T16:42:19Z",
    "author": "Maicey Navarro Griffiths",
    "categories": [
