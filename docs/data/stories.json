@@ -1,10 +1,200 @@
 {
- "generated_at": "2026-11-24T00:57:35.072146Z",
+ "generated_at": "2026-11-24T11:00:44.807389Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 365,
+ "count": 377,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/24/drugs-gang-members-weep-jailed-dealing-cocaine-29815163/",
+   "title": "Drug gang members weep after being jailed for dealing cocaine",
+   "published": "2026-11-24T10:44:29Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Drugs",
+    "Manchester"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/russell-brand-listening-radio-1-reports-himself-jail-cell-29815212/",
+   "title": "Russell Brand ‘listening to Radio 1 reports about himself’ from jail cell",
+   "published": "2026-11-24T10:43:43Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Russell Brand"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/gta-6-scores-biggest-launch-playstation-history-according-sony-29815218/",
+   "title": "GTA 6 scores biggest launch in PlayStation history according to Sony",
+   "published": "2026-11-24T10:20:10Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Grand Theft Auto",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Sony"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/super-el-nino-morphed-a-mega-el-nino-scientists-warn-29815004/",
+   "title": "Super El Niño has morphed into a mega El Niño, scientists warn",
+   "published": "2026-11-24T10:11:21Z",
+   "author": "Danni Scott",
+   "categories": [
+    "News",
+    "World",
+    "Storms",
+    "UK weather",
+    "Weather"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/im-a-celebritys-mariella-frostrup-caught-yet-another-clash-aj-odudu-fallout-29814944/",
+   "title": "I’m A Celebrity’s Mariella Frostrup caught in yet another clash after AJ Odudu fallout",
+   "published": "2026-11-24T10:05:47Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "I'm A Celebrity",
+    "Mariella Frostrup"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/ronnie-osullivan-leads-eclectic-cast-snooker-900-crucible-cup-29814969/",
+   "title": "Ronnie O’Sullivan leads eclectic cast at Snooker 900 Crucible Cup",
+   "published": "2026-11-24T09:45:12Z",
+   "author": "Phil Haigh",
+   "categories": [
+    "Snooker",
+    "Sport",
+    "Neil Robertson",
+    "Ronnie O'Sullivan",
+    "Wu Yize"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/nigella-lawson-true-winner-great-british-bake-off-2026-29815051/",
+   "title": "Nigella Lawson is the true winner of The Great British Bake Off 2026",
+   "published": "2026-11-24T09:36:26Z",
+   "author": "Adam Miller",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Channel 4",
+    "Nigella Lawson",
+    "Opinion",
+    "The Great British Bake Off"
+   ],
+   "summary": "For someone who is widely hailed as the classiest person on television, she's miraculously built a brand centred on gluttony.",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/iran-flogs-female-singer-four-others-performance-without-hijab-29814950/",
+   "title": "Iran flogs female singer and four others over performance without hijab",
+   "published": "2026-11-24T09:28:25Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "World",
+    "Iran",
+    "Iran war"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/powerful-figure-trying-remain-anonymous-engaged-serious-criminality-29815025/",
+   "title": "‘Powerful figure’ trying to remain anonymous has ‘undoubtedly engaged in serious criminality’",
+   "published": "2026-11-24T09:13:03Z",
+   "author": "Alana Anderson",
+   "categories": [
+    "Entertainment",
+    "Showbiz"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/married-vicar-banned-life-sexual-relationship-vulnerable-woman-29814854/",
+   "title": "Married vicar banned for life after sexual relationship with ‘vulnerable’ woman",
+   "published": "2026-11-24T09:09:59Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK",
+    "England"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/trump-made-15-000-000-helping-jensen-huangs-return-nvidia-29814824/",
+   "title": "Trump ‘made $15,000,000’ after ‘helping’ Jensen Huang’s return to Nvidia",
+   "published": "2026-11-24T08:46:56Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "US",
+    "Artificial Intelligence",
+    "China",
+    "Donald Trump",
+    "Stocks",
+    "White House"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/24/piers-morgan-launches-scathing-attack-chelsea-star-cole-palmer-29814916/",
+   "title": "Piers Morgan launches scathing attack on Chelsea star Cole Palmer – ‘he’s a d***head’",
+   "published": "2026-11-24T08:36:05Z",
+   "author": "James Goldman",
+   "categories": [
+    "Sport",
+    "Chelsea FC",
+    "Cole Palmer",
+    "Piers Morgan",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-24T11:00:44.807389Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/24/daily-horoscope-november-24-2026-predictions-star-sign-29814707/",
    "title": "Daily horoscope November 24, 2026: Today’s predictions for your star sign",
