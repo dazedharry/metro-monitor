@@ -1,10 +1,446 @@
 {
- "generated_at": "2026-11-26T12:32:41.631450Z",
+ "generated_at": "2026-11-26T19:05:38.541550Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 508,
+ "count": 534,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/26/family-critically-ill-baby-stuck-abroad-find-private-air-ambulance-flight-back-uk-29823292/",
+   "title": "Family of critically ill baby stuck abroad find private air ambulance flight back to UK",
+   "published": "2026-11-26T18:14:04Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "World",
+    "Charity",
+    "Flights",
+    "Hong Kong"
+   ],
+   "summary": "Baby Matthew has been offered a private air ambulance, but the coast is not clear yet.",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/eastenders-ned-destroys-nicola-brutal-revenge-spoilers-reveal-happens-next-29820700/",
+   "title": "Ned utterly destroys Nicola in brutal revenge shocker as EastEnders spoilers reveal what happens next",
+   "published": "2026-11-26T18:05:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Jamie Bamber",
+    "Laura Doddington",
+    "Ned Hawkins",
+    "Nicola Mitchell"
+   ],
+   "summary": "Nicola's grin won't last long.",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/russell-brands-wife-takes-children-visit-cushy-jail-first-time-29823187/",
+   "title": "Russell Brand’s wife takes children to visit him in ‘cushy’ jail for first time",
+   "published": "2026-11-26T17:29:07Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Russell Brand"
+   ],
+   "summary": "Brand hasn't seen his kids since he was locked up.",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/10-game-year-winners-compete-steam-hall-fame-award-29823215/",
+   "title": "10 Game of the Year winners compete for Steam Hall of Fame award",
+   "published": "2026-11-26T17:24:40Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 5",
+    "Indie Games",
+    "PC Games",
+    "Resident Evil",
+    "Steam",
+    "The Witcher"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/major-airline-routes-uk-orlando-suspends-flights-29821116/",
+   "title": "Major airline with routes from UK to Orlando suspends all flights",
+   "published": "2026-11-26T17:01:11Z",
+   "author": "Maicey Navarro Griffiths",
+   "categories": [
+    "Lifestyle",
+    "Travel",
+    "Europe Travel",
+    "Flights",
+    "Travel Advice",
+    "UK Travel"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/harry-mitchell-gina-knight-leaving-eastenders-latest-updates-29822507/",
+   "title": "Are Harry and Gina leaving EastEnders? Latest explained",
+   "published": "2026-11-26T17:00:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Elijah Holloway",
+    "Francesca Henry",
+    "Gina Knight",
+    "Harry Mitchell"
+   ],
+   "summary": "Answers as fans grow concerned.",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/2027-set-year-sex-gets-extremely-sloppy-29819073/",
+   "title": "2027 is set to be the year sex gets extremely sloppy",
+   "published": "2026-11-26T17:00:00Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Sex tips",
+    "Women"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/center-parcs-trials-brand-new-lodge-feature-sherwood-forest-location-29821069/",
+   "title": "Center Parcs trials brand new lodge feature at Sherwood Forest location",
+   "published": "2026-11-26T16:55:13Z",
+   "author": "Jessica Lindsay",
+   "categories": [
+    "Lifestyle",
+    "Travel",
+    "Dads",
+    "Family",
+    "Mums",
+    "Parenting",
+    "Phones",
+    "Travel Inspiration",
+    "UK Travel"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/tommy-robinson-charged-failing-give-phone-pin-code-police-29823084/",
+   "title": "Tommy Robinson charged with failing to give phone PIN code to police",
+   "published": "2026-11-26T16:26:25Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Metropolitan Police",
+    "Tommy Robinson"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/netflix-horror-notches-9-500-000-views-despite-petition-cancelled-29821966/",
+   "title": "Netflix horror notches up 9,500,000 views despite petition for it to be cancelled",
+   "published": "2026-11-26T16:25:40Z",
+   "author": "Caroline Westbrook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Netflix"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/19-80-light-trail-a-magical-alternative-kew-gardens-29821466/",
+   "title": "The £19.80 light trail that’s a ‘magical’ alternative to Kew Gardens",
+   "published": "2026-11-26T16:09:31Z",
+   "author": "Charlie Sawyer",
+   "categories": [
+    "Lifestyle",
+    "Christmas",
+    "Family",
+    "London"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/im-a-celebrity-unpacked-forced-keep-cameras-rolling-three-stars-throw-29821131/",
+   "title": "I’m a Celebrity Unpacked forced to keep cameras rolling as all three stars throw up",
+   "published": "2026-11-26T16:07:21Z",
+   "author": "Milo Pope",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "I'm A Celebrity",
+    "ITV"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/bonnie-blue-thinks-knows-young-men-ever-virgins-29821731/",
+   "title": "Bonnie Blue thinks she knows why more young men than ever are virgins",
+   "published": "2026-11-26T16:06:14Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Bonnie Blue",
+    "Sex tips",
+    "Sex work"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/rockstar-reveals-cut-features-gta-6-including-golf-tennis-29822825/",
+   "title": "Rockstar reveals cut features from GTA 6 including golf and tennis",
+   "published": "2026-11-26T16:01:56Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Grand Theft Auto",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/norovirus-outbreak-major-cruise-ship-affects-268-people-29822297/",
+   "title": "Norovirus outbreak on major cruise ship affects 268 people",
+   "published": "2026-11-26T15:55:54Z",
+   "author": "Sophie-May Williams",
+   "categories": [
+    "News",
+    "World",
+    "Cruise News",
+    "Travel News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/slow-horses-viewers-fear-fan-favourite-character-will-die-actors-cryptic-post-29822508/",
+   "title": "Slow Horses viewers fear fan-favourite character will die after actor’s cryptic post",
+   "published": "2026-11-26T15:42:40Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Apple TV",
+    "Slow Horses"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/biggest-changes-stalking-laws-a-decade-mean-29821082/",
+   "title": "What do the ‘biggest changes to stalking laws in a decade’ mean?",
+   "published": "2026-11-26T15:32:34Z",
+   "author": "Craig Munro",
+   "categories": [
+    "News",
+    "Politics",
+    "British Government",
+    "Crime News",
+    "Home Office",
+    "Labour Party",
+    "This is Not Right"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/donald-trumps-son-in-law-says-putin-a-grand-man-politics-29822541/",
+   "title": "Donald Trump’s son-in-law says Putin is a ‘grand man of politics’",
+   "published": "2026-11-26T15:25:14Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "World",
+    "Russia",
+    "Russia-Ukraine war",
+    "Ukraine",
+    "United States of America",
+    "Vladimir Putin"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/huntingdon-knifeman-found-guilty-attempting-murder-seven-people-train-29822686/",
+   "title": "Huntingdon knifeman found guilty of attempting to murder seven people on train",
+   "published": "2026-11-26T15:02:38Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Crime News",
+    "Rail"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/joao-pedro-injury-update-five-chelsea-stars-miss-nottingham-forest-clash-29822732/",
+   "title": "Joao Pedro injury update with five Chelsea stars to miss Nottingham Forest clash",
+   "published": "2026-11-26T15:00:57Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Chelsea FC",
+    "Joao Pedro",
+    "Maxence Lacroix",
+    "Premier League",
+    "Xabi Alonso"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/brooklyn-beckham-growing-close-new-father-figure-estrangement-dad-david-29821995/",
+   "title": "Brooklyn Beckham ‘growing close’ to new father figure after estrangement from dad David",
+   "published": "2026-11-26T14:49:19Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Brooklyn Beckham",
+    "David Beckham",
+    "Mark Wahlberg",
+    "Victoria Beckham"
+   ],
+   "summary": "It's like 'a dagger to the heart' for David.",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/doctor-tardis-save-town-crime-goes-through-roof-29822523/",
+   "title": "Doctor Who ‘Tardis’ could save town centre after crime rate goes ‘through the roof’",
+   "published": "2026-11-26T14:37:51Z",
+   "author": "John Dunne",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Doctor Who"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/lee-dixon-makes-arsenal-title-claim-ahead-man-city-premier-league-clash-29821503/",
+   "title": "Lee Dixon makes Man City Premier League title claim ahead of Arsenal clash",
+   "published": "2026-11-26T14:34:48Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Lee Dixon",
+    "Manchester City FC",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/i-speak-animals-pets-rude-owners-ginger-cats-worst-29820849/",
+   "title": "‘I speak to animals – pets are rude about their owners and ginger cats are the worst’",
+   "published": "2026-11-26T14:20:27Z",
+   "author": "Niamh Kirk",
+   "categories": [
+    "News",
+    "Weird",
+    "Animals",
+    "Yorkshire"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/10-exciting-video-game-releases-december-2026-29815138/",
+   "title": "The 10 most exciting video game releases of December 2026",
+   "published": "2026-11-26T14:00:00Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Indie Games",
+    "Nintendo Switch",
+    "Nintendo Switch 2",
+    "PC Games",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Square Enix",
+    "Ubisoft",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/structures-spotted-mars-nasa-proof-alien-life-says-ufologist-29821361/",
+   "title": "Structures spotted on Mars by Nasa ‘proof’ of alien life, says Ufologist",
+   "published": "2026-11-26T13:46:02Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Weird",
+    "Aliens",
+    "Astronomy",
+    "Mars",
+    "Space",
+    "UFOs"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T19:05:38.541550Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/26/first-picture-baby-hippo-born-uk-safari-park-first-time-40-years-29821724/",
    "title": "First picture of baby hippo born at UK safari park for first time in 40 years",
