@@ -1,10 +1,338 @@
 {
- "generated_at": "2026-11-26T08:28:57.575464Z",
+ "generated_at": "2026-11-26T12:32:41.631450Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 488,
+ "count": 508,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/26/first-picture-baby-hippo-born-uk-safari-park-first-time-40-years-29821724/",
+   "title": "First picture of baby hippo born at UK safari park for first time in 40 years",
+   "published": "2026-11-26T12:26:38Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Animals",
+    "Wiltshire"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/ben-jerrys-brings-best-ice-cream-flavour-world-britain-29821206/",
+   "title": "Ben & Jerry’s just brought the ‘best ice cream flavour in the world’ to Britain",
+   "published": "2026-11-26T12:05:11Z",
+   "author": "Jessica Lindsay",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Food Launches",
+    "Foodie",
+    "Supermarkets"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/former-bake-off-finalist-confirmed-new-judge-i-big-shoes-fill-29820931/",
+   "title": "Former Bake Off finalist confirmed as new judge: ‘I have big shoes to fill’",
+   "published": "2026-11-26T12:00:00Z",
+   "author": "Asyia Iftikhar",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Channel 4",
+    "The Great British Bake Off"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/arsenal-stars-not-comfortable-teammate-start-man-city-29821534/",
+   "title": "Arsenal stars ‘not comfortable’ with teammate who could start against Man City",
+   "published": "2026-11-26T11:58:09Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "Kepa Arrizabalaga",
+    "Manchester City FC",
+    "Mikel Arteta"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/john-lewis-ditches-quality-street-unveils-gorgeous-new-christmas-pick-mix-29821462/",
+   "title": "John Lewis ditches Quality Street and unveils ‘gorgeous’ new Christmas pick and mix",
+   "published": "2026-11-26T11:38:57Z",
+   "author": "Courtney Pochin",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Chocolate",
+    "Christmas",
+    "Food Launches",
+    "Foodie",
+    "John Lewis"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/huw-edwards-angrily-claims-i-lost-plot-grilled-shocking-channel-4-documentary-29821584/",
+   "title": "Huw Edwards angrily claims ‘I lost the plot’ in shocking Channel 4 documentary",
+   "published": "2026-11-26T11:38:16Z",
+   "author": "Milo Pope",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Channel 4",
+    "Huw Edwards"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/mums-letter-nagging-son-change-pants-found-university-60-years-29821445/",
+   "title": "Mum’s letter nagging her son to change his pants found in university after 60 years",
+   "published": "2026-11-26T11:28:08Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "BBC",
+    "Nottinghamshire",
+    "Universities"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/fifa-victim-cyber-attack-handsome-boy-hacking-club-29821536/",
+   "title": "FIFA victim of cyber attack by ‘Handsome Boy Hacking Club’",
+   "published": "2026-11-26T11:21:24Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "Cybercrime",
+    "Fifa"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/10-brands-deserve-a-spot-christmas-list-29806946/",
+   "title": "Stuck for Christmas gift ideas? These 10 brands deserve a spot on your list",
+   "published": "2026-11-26T11:09:18Z",
+   "author": "Checklist",
+   "categories": [
+    "Lifestyle"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/witcher-4-promises-a-gta-6-style-graphical-leap-ps5-partnership-29821246/",
+   "title": "The Witcher 4 promises a GTA 6 style graphical leap and PS5 partnership",
+   "published": "2026-11-26T10:59:29Z",
+   "author": "Michael Beckwith",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "GTA 6",
+    "PC Games",
+    "PlayStation 5",
+    "The Witcher",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/brad-pitt-angelina-jolie-release-joint-statement-settling-164-000-000-legal-battle-29821000/",
+   "title": "Brad Pitt and Angelina Jolie release shock joint statement after settling $164,000,000 legal battle",
+   "published": "2026-11-26T10:52:45Z",
+   "author": "Danni Scott",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Angelina Jolie",
+    "Brad Pitt",
+    "US Showbiz news"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/ian-wright-reveals-major-concern-arsenal-summer-signing-29820913/",
+   "title": "Ian Wright fears Arsenal have made triple transfer mistake – ‘I just don’t see it’",
+   "published": "2026-11-26T10:42:02Z",
+   "author": "James Goldman",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Arsenal transfer news",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/eastenders-favourite-dead-thames-horror-new-year-exit-story-29820929/",
+   "title": "EastEnders favourite ‘dead in the Thames’ in horror New Year exit story",
+   "published": "2026-11-26T10:40:20Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Aaron Thiara",
+    "Jake Wood",
+    "Max Branning",
+    "Ravi Gulati"
+   ],
+   "summary": "A watery end?",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/david-raya-injury-update-expert-explains-arsenal-star-can-play-man-city-29821291/",
+   "title": "David Raya injury update as expert explains if Arsenal star can play against Man City",
+   "published": "2026-11-26T10:39:13Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "Manchester City FC",
+    "Mikel Arteta",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/richard-hammond-reveals-turned-hosting-top-gear-gordon-ramsay-29821038/",
+   "title": "Richard Hammond reveals why he turned down hosting Top Gear over Gordon Ramsay",
+   "published": "2026-11-26T10:31:27Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Gordon Ramsay",
+    "Richard Hammond",
+    "Top Gear"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/inbetweeners-star-hospitalised-one-week-filming-netflix-comeback-29820995/",
+   "title": "Inbetweeners star hospitalised one week after filming Netflix comeback: ‘My body is disintegrating’",
+   "published": "2026-11-26T10:27:49Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "James Buckley",
+    "Joe Thomas",
+    "The Inbetweeners"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/poundland-workers-found-collapse-paper-pinned-staff-board-29821035/",
+   "title": "Poundland workers with years of service found out about collapse on paper pinned to staff board",
+   "published": "2026-11-26T10:19:14Z",
+   "author": "Brooke Davies",
+   "categories": [
+    "News",
+    "UK",
+    "High Street",
+    "Poundland"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/net-migration-falls-lowest-level-since-1997-outside-pandemic-29821202/",
+   "title": "Net migration falls to lowest level since 1997 outside pandemic",
+   "published": "2026-11-26T10:09:47Z",
+   "author": "Craig Munro",
+   "categories": [
+    "News",
+    "Politics",
+    "British Government",
+    "Home Office",
+    "Immigration",
+    "Labour Party",
+    "Shabana Mahmood"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/woman-drugged-raped-husband-asked-police-is-fault-29820947/",
+   "title": "Woman ‘drugged and raped by husband’ asked police: ‘Is it my fault?’",
+   "published": "2026-11-26T10:01:30Z",
+   "author": "Sarah Hooper",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "Crime News",
+    "Manchester"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/coronation-street-wedding-news-confirmed-controversial-doomed-couple-29820904/",
+   "title": "Coronation Street wedding news confirmed for controversial and doomed couple",
+   "published": "2026-11-26T09:42:56Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Bethany Platt",
+    "Jacob Roberts",
+    "Kit Green",
+    "Lucy Fallon",
+    "Sarah Platt",
+    "Tina O'Brien"
+   ],
+   "summary": "The happiness won't last.",
+   "image": null,
+   "first_seen": "2026-11-26T12:32:41.631450Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/26/london-commuters-suffer-rush-hour-chaos-hours-tube-strikes-29820856/",
    "title": "London commuters suffer rush-hour chaos hours before Tube strikes",
