@@ -1,10 +1,428 @@
 {
- "generated_at": "2026-11-27T10:56:51.490536Z",
+ "generated_at": "2026-11-27T19:59:54.135364Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 568,
+ "count": 594,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/27/ross-reported-vile-behaviour-faces-music-coronation-street-spoilers-reveal-next-29824709/",
+   "title": "Ross reported over his vile behaviour as Coronation Street spoilers reveal what’s next",
+   "published": "2026-11-27T19:45:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Ian Burfield",
+    "Maria Connor",
+    "Ross Wilkes",
+    "Samia Longchambon"
+   ],
+   "summary": "The nightmare worsens.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/reform-uk-councillor-claims-grass-not-grow-bizarre-statement-29825187/",
+   "title": "Reform UK councillor claims ‘grass does not grow’ in bizarre statement",
+   "published": "2026-11-27T18:44:02Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK",
+    "Reform UK"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/jojo-siwa-23-really-hurt-splits-boyfriend-chris-hughes-33-29825649/",
+   "title": "JoJo Siwa, 23, ‘really hurt’ as she splits from boyfriend Chris Hughes, 33",
+   "published": "2026-11-27T18:32:08Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Celebrity Big Brother",
+    "Chris Hughes",
+    "JoJo Siwa"
+   ],
+   "summary": "'She needed to choose herself.'",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/want-glowing-skin-less-loreal-black-friday-deals-hard-beat-29825478/",
+   "title": "L’Oréal’s Black Friday sale includes up to 67% off and one deal is just £7.99",
+   "published": "2026-11-27T18:06:07Z",
+   "author": "Emma North",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Shopping",
+    "Beauty Products",
+    "Black Friday",
+    "Deals",
+    "Hair and Beauty",
+    "Haircare"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/thom-evans-nicole-scherzingers-flirty-exchange-just-weeks-ago-suggests-sudden-engagement-split-29825508/",
+   "title": "Thom Evans and Nicole Scherzinger’s flirty exchange just weeks ago suggests sudden engagement split",
+   "published": "2026-11-27T18:03:37Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Nicole Scherzinger",
+    "The Pussycat Dolls",
+    "Thom Evans"
+   ],
+   "summary": "Thom revealed it was 'Nicole's decision' to split.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/broke-heirloom-sex-prematurely-evacuated-premises-29821251/",
+   "title": "He broke an heirloom during sex – then prematurely evacuated the premises",
+   "published": "2026-11-27T18:00:00Z",
+   "author": "Sydney Summers",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Columnists",
+    "Dating",
+    "First Person",
+    "Real Life"
+   ],
+   "summary": "Suddenly, he got up to use the bathroom, walked into my bedroom door and apologised to it.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/overlooked-commuter-town-hour-london-400-000-cheaper-houses-29824185/",
+   "title": "The ‘overlooked’ commuter town an hour from London with £400,000 cheaper houses",
+   "published": "2026-11-27T17:54:47Z",
+   "author": "Jessica Lindsay",
+   "categories": [
+    "Lifestyle",
+    "Property",
+    "Housing",
+    "Northamptonshire",
+    "Property Prices"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/man-threatened-murder-staff-children-rejected-nursery-jobs-29825475/",
+   "title": "Man threatened to ‘murder staff and children’ after being rejected from nursery jobs",
+   "published": "2026-11-27T17:45:18Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Court",
+    "London"
+   ],
+   "summary": "He told staff to advise children to 'watch their backs'.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/bbc-confirms-traitors-series-5-start-date-isnt-long-wait-29824797/",
+   "title": "BBC confirms The Traitors series 5 start date and there isn’t long to wait",
+   "published": "2026-11-27T17:00:00Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Christmas TV",
+    "The Traitors"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/want-play-gta-6-ps5-black-friday-deals-worth-snapping-29825013/",
+   "title": "GTA 6 is here and PS5 consoles are flying off shelves – these Black Friday deals could save you money",
+   "published": "2026-11-27T16:46:08Z",
+   "author": "Sarah Bradbury",
+   "categories": [
+    "Lifestyle",
+    "Shopping",
+    "Black Friday",
+    "Deals"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/tinders-most-swiped-man-charged-rape-29825259/",
+   "title": "Tinder’s ‘most swiped man’ charged with rape",
+   "published": "2026-11-27T16:40:18Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Sexual Violence",
+    "Tinder"
+   ],
+   "summary": "He allegedly assaulted a woman at a London private members' club.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/first-ai-sex-toy-hands-free-gives-300-strokes-per-minute-29821531/",
+   "title": "The first AI sex toy is ‘hands free’ and gives 300 strokes per minute",
+   "published": "2026-11-27T16:36:44Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "Artificial Intelligence",
+    "Men",
+    "Sex toys"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/hollow-knight-silksongs-first-free-dlc-confirmed-december-new-trailer-29825066/",
+   "title": "Hollow Knight: Silksong’s first free DLC confirmed for December in new trailer",
+   "published": "2026-11-27T16:31:06Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Indie Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/police-give-update-unknown-substance-released-rappers-manchester-gig-29825316/",
+   "title": "Police give update after ‘unknown substance’ released at rapper’s Manchester gig",
+   "published": "2026-11-27T16:11:44Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Greater Manchester Police",
+    "Manchester"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/crying-student-fined-20-sitting-playground-bench-without-a-child-29825077/",
+   "title": "Crying student fined £20 for sitting on playground bench without a child",
+   "published": "2026-11-27T16:02:50Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/holly-willoughby-admits-drunk-huge-bbc-show-footage-incredible-29825073/",
+   "title": "Holly Willoughby admits she was drunk on huge BBC show – the footage is incredible",
+   "published": "2026-11-27T15:52:35Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Alex Jones",
+    "BBC",
+    "Holly Willoughby",
+    "The One Show"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/taliban-strips-names-women-replaces-cow-goat-29825076/",
+   "title": "Taliban strips names of women and replaces them with ‘cow’ or ‘goat’",
+   "published": "2026-11-27T15:37:37Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Afghanistan",
+    "Taliban",
+    "Women"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/nasa-probes-1-800-000-000-mile-cosmic-slingshot-hunt-life-icy-moon-29823759/",
+   "title": "Nasa probe’s 1,800,000,000-mile cosmic slingshot to hunt for life on icy moon",
+   "published": "2026-11-27T15:26:26Z",
+   "author": "Hayley Chamberlain",
+   "categories": [
+    "News",
+    "World",
+    "Astronomy",
+    "Mars",
+    "Nasa",
+    "Space"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/lewis-hall-injury-latest-ahead-brighton-vs-newcastle-united-29825190/",
+   "title": "Lewis Hall injury latest ahead of Brighton vs Newcastle United",
+   "published": "2026-11-27T15:24:21Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Newcastle United",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/mystery-alexander-greats-tomb-may-finally-solved-major-discovery-29820850/",
+   "title": "Mystery of Alexander the Great’s tomb may finally be solved after major discovery",
+   "published": "2026-11-27T14:55:02Z",
+   "author": "Mark Worgan",
+   "categories": [
+    "News",
+    "Weird",
+    "Archaeology",
+    "Egypt",
+    "Greece"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/air-fryers-coffee-machines-ninjas-biggest-black-friday-deals-29824724/",
+   "title": "Ninja’s Black Friday sale has landed and the deals are better than I expected",
+   "published": "2026-11-27T14:48:03Z",
+   "author": "Emma North",
+   "categories": [
+    "Lifestyle",
+    "Shopping",
+    "Black Friday",
+    "Deals",
+    "Ninja"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/chelsea-legend-john-terry-claims-27m-arsenal-star-best-world-29824466/",
+   "title": "Chelsea legend John Terry claims £27m Arsenal star is ‘best in the world’",
+   "published": "2026-11-27T14:46:46Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "David Raya",
+    "John Terry",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/tubby-leopard-resembles-a-disney-character-old-diet-19-29824664/",
+   "title": "Tubby leopard that resembles a Disney character is too old to diet at 19",
+   "published": "2026-11-27T14:35:17Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "Animals",
+    "China",
+    "Disney"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/lidl-offering-a-bottle-christmas-champagne-9-99-29824840/",
+   "title": "Lidl is offering a bottle of Christmas champagne for £9.99",
+   "published": "2026-11-27T14:23:57Z",
+   "author": "Sarah Ingram",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Alcohol",
+    "Christmas",
+    "Lidl",
+    "Supermarkets"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/pride-prejudices-jack-lowden-reveals-joint-email-colin-firth-matthew-macfadyen-29824771/",
+   "title": "Pride and Prejudice’s Jack Lowden reveals ‘joint email’ from Colin Firth and Matthew Macfadyen",
+   "published": "2026-11-27T14:22:57Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Colin Firth",
+    "Graham Norton",
+    "Jack Lowden",
+    "Jane Austen",
+    "Matthew Macfadyen",
+    "Netflix"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/thom-evans-announces-split-nicole-scherzinger-shock-statement-her-decision-29824910/",
+   "title": "Thom Evans announces split from Nicole Scherzinger in shock statement: ‘Her decision’",
+   "published": "2026-11-27T14:19:55Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Nicole Scherzinger",
+    "The Pussycat Dolls",
+    "Thom Evans"
+   ],
+   "summary": "The breakup wasn't a mutual decision.",
+   "image": null,
+   "first_seen": "2026-11-27T19:59:54.135364Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/27/met-office-issues-yellow-ice-warning-freezing-rain-hits-uk-29823870/",
    "title": "Met Office issues yellow ice warning after rare ‘freezing rain’ hits UK",
