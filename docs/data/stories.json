@@ -1,10 +1,364 @@
 {
- "generated_at": "2026-11-27T02:14:53.378534Z",
+ "generated_at": "2026-11-27T10:56:51.490536Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 548,
+ "count": 568,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/27/met-office-issues-yellow-ice-warning-freezing-rain-hits-uk-29823870/",
+   "title": "Met Office issues yellow ice warning after rare ‘freezing rain’ hits UK",
+   "published": "2026-11-27T10:55:26Z",
+   "author": "Fabio Crispim",
+   "categories": [
+    "News",
+    "UK",
+    "Met Office",
+    "Rain",
+    "Snow",
+    "UK weather",
+    "Weather"
+   ],
+   "summary": "'Freezing rain' has hit the UK, causing the Met Office to issue a yellow weather warning.",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/focker-in-law-opens-abysmal-reaction-branded-worst-movie-29824183/",
+   "title": "Focker-In-Law opens to abysmal reaction and branded the ‘worst movie’",
+   "published": "2026-11-27T10:51:53Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "Film",
+    "Ariana Grande",
+    "Ben Stiller",
+    "Comedy",
+    "Robert De Niro"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/alan-shearers-premier-league-predictions-including-arsenal-vs-man-city-2-29823990/",
+   "title": "Alan Shearer’s Premier League predictions including Arsenal vs Man City",
+   "published": "2026-11-27T10:47:38Z",
+   "author": "Alan Shearer",
+   "categories": [
+    "Football",
+    "Sport",
+    "Alan Shearer",
+    "Arsenal",
+    "Aston Villa",
+    "Brentford FC",
+    "Crystal Palace",
+    "Everton",
+    "Fulham FC",
+    "Liverpool FC",
+    "Manchester City FC",
+    "Manchester United",
+    "Newcastle United",
+    "Premier League",
+    "Sunderland FC",
+    "Tottenham Hotspur"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/lucia-actress-says-worked-gta-6-almost-a-decade-thanks-fans-29824095/",
+   "title": "Lucia actress says she worked on GTA 6 for ‘almost a decade’ as she thanks fans",
+   "published": "2026-11-27T10:33:27Z",
+   "author": "Adam Starkey",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Grand Theft Auto",
+    "GTA 6",
+    "Rockstar Games"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/strictly-come-dancing-star-claims-treated-appallingly-bbc-show-29823842/",
+   "title": "Strictly Come Dancing star claims she was ‘treated appallingly’ on BBC show",
+   "published": "2026-11-27T10:16:01Z",
+   "author": "Tom Percival",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Neil Jones",
+    "Strictly Come Dancing",
+    "Toyah Willcox"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/arsenal-make-approach-sign-spain-international-replace-50m-star-29823951/",
+   "title": "Arsenal make approach to sign Spain international to replace £50m star",
+   "published": "2026-11-27T10:01:13Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Arsenal transfer news",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/42-im-hornier-ever-not-husband-reaping-benefits-29822718/",
+   "title": "At 42, I’m hornier than ever — but it’s not my husband reaping the benefits",
+   "published": "2026-11-27T09:56:14Z",
+   "author": "Alice Giddings",
+   "categories": [
+    "Lifestyle",
+    "Sex",
+    "How I Do It",
+    "Marriage",
+    "Relationships"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/mod-doesnt-emails-half-100-000-reservists-call-warning-29823880/",
+   "title": "MoD doesn’t have emails for half of its 100,000 reservists after call up warning",
+   "published": "2026-11-27T09:44:42Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "UK",
+    "British Army",
+    "RAF and Red Arrows",
+    "Royal Navy"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/eastenders-icon-delivers-moving-message-abusive-fans-29823786/",
+   "title": "‘We’ve been through stuff’ EastEnders icon delivers moving message to abusive ‘fans’",
+   "published": "2026-11-27T09:10:02Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Eve Panesar-Unwin",
+    "Heather Peace"
+   ],
+   "summary": "Heather has been part of the EastEnders cast since 2021.",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/man-utd-open-talks-make-premier-league-star-mauricio-pochettinos-first-signing-29823883/",
+   "title": "Man Utd open talks to make Premier League star Mauricio Pochettino’s first signing",
+   "published": "2026-11-27T08:58:30Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Manchester United",
+    "Manchester United Transfer News",
+    "Mauricio Pochettino",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/im-a-celebrity-fans-squirm-spotting-awkward-ant-dec-moment-mariella-frostrup-29823788/",
+   "title": "I’m a Celebrity fans squirm after spotting ‘awkward’ Ant and Dec moment with Mariella Frostrup",
+   "published": "2026-11-27T08:57:03Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Ant and Dec",
+    "I'm A Celebrity",
+    "ITV",
+    "Mariella Frostrup"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/nearly-400-000-people-wrongly-told-won-39-000-000-euromillions-29823762/",
+   "title": "Nearly 400,000 people wrongly told they’d won £39,000,000 on EuroMillions",
+   "published": "2026-11-27T08:45:47Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "World",
+    "EuroMillions",
+    "Lottery"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/uk-government-services-go-offline-cyber-incident-29823837/",
+   "title": "UK government services go offline after ‘cyber incident’",
+   "published": "2026-11-27T08:45:30Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News",
+    "UK",
+    "Cybercrime",
+    "Department for Work and Pensions"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/iconic-soap-star-lesley-saweard-played-role-66-years-dies-aged-92-29823793/",
+   "title": "Iconic soap star Lesley Saweard – who played role for 66 years – dies aged 92",
+   "published": "2026-11-27T08:37:51Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Soaps",
+    "Soaps Showbiz",
+    "The Archers"
+   ],
+   "summary": "Sad news.",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/take-a-soap-writer-makes-a-christmas-episode-a-cracker-29805920/",
+   "title": "Take it from a soap writer – here’s what makes a Christmas episode into a cracker",
+   "published": "2026-11-27T08:37:12Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Belle Dingle",
+    "Debbie Webster",
+    "Denise Fox",
+    "Diane Parish",
+    "Eden Taylor-Draper",
+    "Jake Wood",
+    "James Chase",
+    "Max Branning",
+    "Sue Devaney",
+    "Tom King"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/soaps-christmas-spoiler-preview-eastenders-emmerdale-coronation-street-29809966/",
+   "title": "Soaps Christmas spoiler preview confirms massive Coronation Street, EastEnders and Emmerdale twists",
+   "published": "2026-11-27T08:00:00Z",
+   "author": "Duncan Lindsay",
+   "categories": [
+    "Soaps",
+    "Belle Dingle",
+    "Christmas",
+    "Christmas TV",
+    "Debbie Webster",
+    "Linda Carter",
+    "Max Branning"
+   ],
+   "summary": "Huge storylines revealed for your core three festive soaps",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/tracking-black-friday-deals-weeks-best-savings-29823019/",
+   "title": "Black Friday 2026 LIVE: I’ve been tracking deals for weeks – these are the best savings",
+   "published": "2026-11-27T07:48:28Z",
+   "author": "Sarah Bradbury",
+   "categories": [
+    "Lifestyle",
+    "Shopping",
+    "Amazon",
+    "Beauty Products",
+    "Black Friday",
+    "Currys",
+    "Deals",
+    "Dunelm",
+    "Fashion",
+    "Hair and Beauty",
+    "Metro newspaper",
+    "Skincare"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/tinie-tempah-backs-1-000-000-initiative-support-britains-high-streets-29822408/",
+   "title": "Tinie Tempah backs £1,000,000 initiative to support Britain’s high streets",
+   "published": "2026-11-27T07:47:59Z",
+   "author": "Sarah Ingram",
+   "categories": [
+    "News",
+    "UK",
+    "Business",
+    "Economy",
+    "High Street",
+    "Tinie Tempah"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/ross-vulgar-new-move-coronation-street-targets-child-29821889/",
+   "title": "Ross’ vulgar new move in Coronation Street as he targets child whose life he will destroy",
+   "published": "2026-11-27T07:30:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Ian Burfield",
+    "Ross Wilkes"
+   ],
+   "summary": "He just doesn't stop.",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/theas-loss-drives-emmerdales-kim-despair-amid-graham-dad-secret-29822398/",
+   "title": "Thea’s loss drives Emmerdale’s Kim to despair amid Graham dad secret",
+   "published": "2026-11-27T07:30:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Andrew Scarborough",
+    "Chelsea Edge",
+    "Claire King",
+    "DS Thea Ramsden",
+    "Graham Foster",
+    "Kim Tate"
+   ],
+   "summary": "Kim's keeping a huge secret.",
+   "image": null,
+   "first_seen": "2026-11-27T10:56:51.490536Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/27/games-inbox-witcher-4-next-big-game-gta-6-29823669/",
    "title": "Games Inbox: Is The Witcher 4 the next big game after GTA 6?",
