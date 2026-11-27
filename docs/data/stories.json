@@ -1,10 +1,265 @@
 {
- "generated_at": "2026-11-26T19:05:38.541550Z",
+ "generated_at": "2026-11-27T02:14:53.378534Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 534,
+ "count": 548,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/27/games-inbox-witcher-4-next-big-game-gta-6-29823669/",
+   "title": "Games Inbox: Is The Witcher 4 the next big game after GTA 6?",
+   "published": "2026-11-27T02:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games Inbox",
+    "GTA 6",
+    "Nintendo",
+    "Rockstar Games",
+    "The Legend of Zelda",
+    "The Witcher",
+    "Wii",
+    "Xbox 360"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/gta-6-review-better-late-never-29819175/",
+   "title": "GTA 6 review – better late than never",
+   "published": "2026-11-27T01:00:00Z",
+   "author": "David Jenkins",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Games news",
+    "Games reviews",
+    "Grand Theft Auto",
+    "GTA 5",
+    "GTA 6",
+    "PlayStation 5",
+    "Rockstar Games",
+    "Xbox Series X"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/stalkers-abusers-will-made-fix-behaviour-tough-targeted-action-29822882/",
+   "title": "Stalkers and abusers will be made to fix behaviour in ‘tough, targeted action’",
+   "published": "2026-11-27T00:02:00Z",
+   "author": "Sam Corbishley",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "This is Not Right"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/daily-horoscope-november-27-2026-predictions-star-sign-29823169/",
+   "title": "Daily horoscope November 27, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-27T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "A difficult Moon-Neptune angle could complicate your connection with others.",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/beth-danger-hollyoaks-jonahs-spiking-caleb-goes-spectacularly-wrong-29821917/",
+   "title": "Beth in danger in Hollyoaks as Jonah’s spiking of Caleb goes spectacularly wrong",
+   "published": "2026-11-26T23:59:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Hollyoaks",
+    "Soaps",
+    "Frankie Osborne",
+    "Isabelle Smith",
+    "Matthew Wolfenden"
+   ],
+   "summary": "Things take a grim turn.",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/paul-pogba-makes-arsenal-claim-message-man-utd-mauricio-pochettino-29823629/",
+   "title": "Paul Pogba makes Arsenal claim in message to Manchester United and Mauricio Pochettino",
+   "published": "2026-11-26T22:12:00Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Manchester United",
+    "Mauricio Pochettino",
+    "Mikel Arteta",
+    "Paul Pogba",
+    "Premier League"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/emmerdales-marlon-paddy-take-kev-dramatic-consequences-29806151/",
+   "title": "Emmerdale’s Marlon and Paddy take on Kev – with dramatic consequences",
+   "published": "2026-11-26T22:00:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Chris Coghill",
+    "Dominic Brunt",
+    "Kev Barton",
+    "Mark Charnock",
+    "Marlon Dingle",
+    "Paddy Kirk"
+   ],
+   "summary": "Do they know who they’re taking on?!",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/surprise-change-queen-vic-eastenders-legend-takes-kat-29812604/",
+   "title": "Surprise change at the Vic as EastEnders legend takes over from Kat",
+   "published": "2026-11-26T22:00:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Jessie Wallace",
+    "Kat Slater",
+    "Rob Kazinsky",
+    "Sean Slater"
+   ],
+   "summary": "There's a new landlord in town!",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/netflix-removes-scene-tyson-fury-documentary-anthony-joshua-fight-cancellation-fears-29823578/",
+   "title": "Netflix removes scene in Tyson Fury documentary after Anthony Joshua fight cancellation fears",
+   "published": "2026-11-26T21:04:26Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Boxing",
+    "Sport",
+    "Anthony Joshua",
+    "Paris Fury",
+    "Tyson Fury"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/grandmother-woke-hospital-mortuary-declared-dead-extremely-distressing-event-29822294/",
+   "title": "Grandmother woke up in hospital mortuary after being declared dead in ‘extremely distressing event’",
+   "published": "2026-11-26T21:04:08Z",
+   "author": "Noora Mykkanen",
+   "categories": [
+    "News"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/ant-dec-im-a-celebrity-race-row-became-bigger-deal-have-29823538/",
+   "title": "Ant and Dec: ‘I’m A Celebrity race row became bigger deal than it should have’",
+   "published": "2026-11-26T20:47:08Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "AJ Odudu",
+    "Ant and Dec",
+    "Ant McPartlin",
+    "Declan Donnelly",
+    "I'm A Celebrity",
+    "ITV",
+    "Mariella Frostrup"
+   ],
+   "summary": "'Mariella probably didn’t handle it very well,' Dec said.",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/catches-ross-confirmed-amid-marco-torment-coronation-street-spoilers-reveal-next-29823533/",
+   "title": "Who catches Ross out ‘confirmed’ amid Marco prison torment as Coronation Street spoilers reveal what’s next",
+   "published": "2026-11-26T19:45:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Gary Windass",
+    "Ian Burfield",
+    "Maria Connor",
+    "Mikey North",
+    "Ross Wilkes",
+    "Samia Longchambon"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/graham-ammo-obliterate-caleb-emmerdale-spoilers-reveal-next-29821219/",
+   "title": "Graham has the ammo to obliterate Caleb as Emmerdale spoilers reveal what happens next",
+   "published": "2026-11-26T19:30:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Andrew Scarborough",
+    "Caleb Miligan",
+    "Graham Foster",
+    "William Ash"
+   ],
+   "summary": "Time has ran out.",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/26/anthony-joshua-vs-tyson-fury-cancelled-in-next-days-schizophrenia-diagnosis-29823507/",
+   "title": "Anthony Joshua vs Tyson Fury could be cancelled ‘in next few days’ after schizophrenia diagnosis",
+   "published": "2026-11-26T19:28:46Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Boxing",
+    "Sport",
+    "Anthony Joshua",
+    "Eddie Hearn",
+    "Oleksandr Usyk",
+    "Tyson Fury"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-27T02:14:53.378534Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/26/family-critically-ill-baby-stuck-abroad-find-private-air-ambulance-flight-back-uk-29823292/",
    "title": "Family of critically ill baby stuck abroad find private air ambulance flight back to UK",
