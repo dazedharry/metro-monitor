@@ -1,10 +1,342 @@
 {
- "generated_at": "2026-11-28T02:45:15.685826Z",
+ "generated_at": "2026-11-28T11:54:09.511764Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 614,
+ "count": 634,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/28/jojo-siwas-mum-shares-sly-dig-chris-hughes-couple-split-29826128/",
+   "title": "JoJo Siwa’s mum shares sly dig at Chris Hughes after couple ‘split’",
+   "published": "2026-11-28T11:52:37Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "Showbiz",
+    "Chris Hughes",
+    "JoJo Siwa",
+    "Relationships"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/paul-merson-urges-mikel-arteta-drop-arsenal-star-man-city-clash-29824477/",
+   "title": "Paul Merson urges Mikel Arteta to drop £65m Arsenal star for Man City clash",
+   "published": "2026-11-28T11:46:33Z",
+   "author": "Ben Fleming",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Kai Havertz",
+    "Manchester City FC",
+    "Paul Merson",
+    "Premier League",
+    "Viktor Gyokeres"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/fresh-appeal-answers-45-years-toddler-vanished-second-birthday-29825972/",
+   "title": "Fresh appeal for answers 45 years after toddler vanished on her second birthday",
+   "published": "2026-11-28T10:13:03Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "News",
+    "World",
+    "British Army",
+    "Germany"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/actress-forces-bbc-show-trans-ally-shirt-live-tv-strictly-blurred-29826047/",
+   "title": "Actress forces BBC to show trans ally shirt on live TV after Strictly blurred it",
+   "published": "2026-11-28T10:12:02Z",
+   "author": "Rebecca Cook",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "BBC",
+    "Strictly Come Dancing",
+    "The One Show"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/graham-norton-yells-jack-whitehall-james-bond-joke-front-jack-lowden-29826023/",
+   "title": "Graham Norton yells at Jack Whitehall after James Bond joke in front of ex-favourite",
+   "published": "2026-11-28T10:11:24Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Graham Norton",
+    "Jack Lowden",
+    "Jack Whitehall"
+   ],
+   "summary": "Jack Lowden, 36, was joined by Willem Dafoe, Shirley Ballas, Sienna Shapiro and Jack Whitehall on the BBC talk show.",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/not-drinking-prosecco-this-christmas-try-criminally-overlooked-alternatives-instead-29819069/",
+   "title": "We’re not drinking Prosecco this Christmas — try these criminally overlooked alternatives instead",
+   "published": "2026-11-28T10:00:00Z",
+   "author": "Robertson Buckhaven",
+   "categories": [
+    "Food",
+    "Lifestyle",
+    "Alcohol",
+    "Christmas",
+    "Drink Up",
+    "Drinks",
+    "Wine"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/joe-cole-tells-chelsea-wesley-fofana-fans-tell-f-k-off-29826037/",
+   "title": "Joe Cole tells Chelsea what to do with Wesley Fofana after fans tell him to ‘f**k off’",
+   "published": "2026-11-28T09:49:54Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Football",
+    "Sport",
+    "Chelsea FC",
+    "Joe Cole",
+    "Premier League",
+    "Wesley Fofana",
+    "Xabi Alonso"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/joanna-page-im-a-celebrity-fans-stitches-skinny-dipping-jungle-29825940/",
+   "title": "Joanna Page leaves I’m A Celebrity viewers in stitches after skinny dipping in jungle",
+   "published": "2026-11-28T09:07:00Z",
+   "author": "Ryan Prosser",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "I'm A Celebrity",
+    "Joanna Page"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/quaint-corner-england-gaining-a-snowball-celebrity-residents-29825396/",
+   "title": "The quaint corner of England that’s gaining a ‘snowball’ of celebrity residents",
+   "published": "2026-11-28T09:00:00Z",
+   "author": "Rachel Moss",
+   "categories": [
+    "Lifestyle",
+    "Property",
+    "Cotswolds",
+    "Meghan Markle Duchess of Sussex",
+    "Prince Harry",
+    "Property Prices",
+    "Robert Pattinson"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/emmerdales-kammy-serious-danger-violent-tom-closes-29801118/",
+   "title": "Emmerdale’s Kammy in serious danger as violent Tom closes in",
+   "published": "2026-11-28T09:00:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "James Chase",
+    "Kammy Hadiq",
+    "Shebz Miah",
+    "Tom King"
+   ],
+   "summary": "Run, Kammy.",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/graduate-detective-secures-21-year-sentence-attempted-murder-case-29825677/",
+   "title": "Graduate detective secures 21-year sentence for attempted murder case",
+   "published": "2026-11-28T09:00:00Z",
+   "author": "Isabel Fraser",
+   "categories": [
+    "News",
+    "UK",
+    "Crime News",
+    "Exclusive",
+    "London"
+   ],
+   "summary": "A Met detective on a graduate scheme helped secure Brandon Ruck’s 21-year sentence for stabbing a man 16 times.",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/jodie-exit-confirmed-coronation-street-david-shona-receive-news-29817212/",
+   "title": "Jodie exit ‘confirmed’ in Coronation Street as David and Shona receive despairing news",
+   "published": "2026-11-28T09:00:00Z",
+   "author": "Maisie Spackman",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "David Platt",
+    "Jack P. Shepherd",
+    "Jodie Ramsey",
+    "Julia Goulding",
+    "Olivia Frances-Brown",
+    "Shona Platt"
+   ],
+   "summary": "Is Jodie's reign of chaos over?",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/grinch-granny-mobility-scooter-caught-cutting-neighbours-christmas-lights-29826004/",
+   "title": "‘Grinch granny’ on mobility scooter caught cutting neighbour’s Christmas lights",
+   "published": "2026-11-28T08:56:56Z",
+   "author": "Sam Corbishley",
+   "categories": [
+    "News",
+    "UK",
+    "Christmas"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/wwe-star-bronson-reed-dies-aged-38-due-medical-complications-29825983/",
+   "title": "WWE star Bronson Reed dies aged 38 due to ‘medical complications’",
+   "published": "2026-11-28T08:35:11Z",
+   "author": "Tony Mogan",
+   "categories": [
+    "Sport",
+    "WWE"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/huw-edwards-abusing-us-again-rages-mum-victim-documentary-announcement-29825840/",
+   "title": "Huw Edwards is ‘abusing us all over again’, rages mum of victim after documentary announcement",
+   "published": "2026-11-28T08:30:18Z",
+   "author": "Milo Pope",
+   "categories": [
+    "News",
+    "UK",
+    "Channel 4",
+    "Huw Edwards"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/time-travel-possible-29818041/",
+   "title": "Is time travel possible?",
+   "published": "2026-11-28T08:00:00Z",
+   "author": "Josh Milton",
+   "categories": [
+    "News",
+    "Tech",
+    "Astronomy",
+    "Space"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/32-bought-a-flat-one-londons-iconic-buildings-29818773/",
+   "title": "What I Own: At 32 I’ve bought a flat in one of London’s most iconic buildings",
+   "published": "2026-11-28T08:00:00Z",
+   "author": "Eleanor Noyce",
+   "categories": [
+    "Lifestyle",
+    "Property",
+    "Housing",
+    "What I Own"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/keira-knightley-i-wish-11-year-old-watch-pride-prejudice-29821368/",
+   "title": "Keira Knightley: ‘I wish my 11-year-old would watch my Pride and Prejudice’",
+   "published": "2026-11-28T07:00:00Z",
+   "author": "Sabrina Barr",
+   "categories": [
+    "Entertainment",
+    "TV",
+    "Colin Firth",
+    "Emma Corrin",
+    "Jack Lowden",
+    "Jane Austen",
+    "Keira Knightley",
+    "Matthew Macfadyen",
+    "Netflix",
+    "Period dramas"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/best-beauty-advent-calendars-christmas-2026-still-available-29806422/",
+   "title": "The best beauty advent calendars still in stock – including Liberty’s £1,300 sell-out favourite",
+   "published": "2026-11-28T07:00:00Z",
+   "author": "Scott Da Silva-Wells",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Beauty Products",
+    "Christmas",
+    "Christmas gifts",
+    "Hair and Beauty",
+    "Skincare"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/full-list-london-underground-closures-this-weekend-2-29815242/",
+   "title": "Full list of London Underground closures this weekend with major lines affected",
+   "published": "2026-11-28T06:00:00Z",
+   "author": "Fabio Crispim",
+   "categories": [
+    "News",
+    "UK",
+    "Heathrow Airport",
+    "London",
+    "London Overground",
+    "London Underground",
+    "Transport for London"
+   ],
+   "summary": "Major disruption is expected this weekend - here's what to expect.",
+   "image": null,
+   "first_seen": "2026-11-28T11:54:09.511764Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/28/20-years-doesnt-seem-like-wii-changed-anything-readers-feature-29825862/",
    "title": "20 years on and it doesn’t seem like the Wii changed anything – Reader’s Feature",
