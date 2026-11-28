@@ -1,10 +1,375 @@
 {
- "generated_at": "2026-11-27T19:59:54.135364Z",
+ "generated_at": "2026-11-28T02:45:15.685826Z",
  "feeds": [
   "https://metro.co.uk/feed"
  ],
- "count": 594,
+ "count": 614,
  "stories": [
+  {
+   "link": "https://metro.co.uk/2026/11/28/20-years-doesnt-seem-like-wii-changed-anything-readers-feature-29825862/",
+   "title": "20 years on and it doesn’t seem like the Wii changed anything – Reader’s Feature",
+   "published": "2026-11-28T02:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "Nintendo",
+    "Reader's Feature",
+    "Wii"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/gta-6-can-boring-not-a-bad-thing-readers-feature-29825837/",
+   "title": "GTA 6 can be boring but that’s not a bad thing – Reader’s Feature",
+   "published": "2026-11-28T01:00:00Z",
+   "author": "GameCentral",
+   "categories": [
+    "Entertainment",
+    "Gaming",
+    "GTA 6",
+    "Reader's Feature"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/28/daily-horoscope-november-28-2026-predictions-star-sign-29825784/",
+   "title": "Daily horoscope November 28, 2026: Today’s predictions for your star sign",
+   "published": "2026-11-28T00:01:00Z",
+   "author": "Patrick Arundell",
+   "categories": [
+    "Horoscopes",
+    "Lifestyle",
+    "Aquarius",
+    "Aries",
+    "Astrology",
+    "Cancer (star sign)",
+    "Capricorn",
+    "Gemini",
+    "Leo",
+    "Libra",
+    "Pisces",
+    "Sagittarius",
+    "Scorpio",
+    "Taurus",
+    "Virgo"
+   ],
+   "summary": "See your November 28, 2026 horoscope as a Jupiter-Venus link boosts collaboration, romance and support across every star sign.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/coronation-street-star-confirms-cassie-dead-misses-claire-sweeney-29817706/",
+   "title": "Coronation Street star ‘confirms’ Cassie is dead as she misses Claire Sweeney",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Jon Boam",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Cassie Plummer",
+    "Claire Sweeney",
+    "Fiz Dobbs",
+    "Ian Burfield",
+    "Jennie McAlpine",
+    "Ross Wilkes"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/gary-marias-fire-disaster-confirmed-four-new-coronation-street-spoiler-videos-29824272/",
+   "title": "Gary and Maria’s fire disaster confirmed in four new Coronation Street spoiler videos",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Alison King",
+    "Amy Robbins",
+    "Brody Michaelis",
+    "Carla Connor-Swain",
+    "Christina Boyd",
+    "Gary Windass",
+    "Jane Danson",
+    "Jodie Ramsey",
+    "Joe Duttine",
+    "Leanne Battersby",
+    "Maria Connor",
+    "Mikey North",
+    "Olivia Frances-Brown",
+    "Ryan Mulvey",
+    "Samia Longchambon",
+    "Tim Metcalfe"
+   ],
+   "summary": "Tensions are flaring all over Weatherfield!",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/coronation-streets-lisa-stunned-find-a-hidden-camera-shows-29814226/",
+   "title": "Coronation Street’s Lisa stunned to find a hidden camera – and what it shows",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Maisie Spackman",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Amy Robbins",
+    "Anya Dewin",
+    "Christina Boyd",
+    "DS Lisa Connor-Swain",
+    "Lucy Parkinson",
+    "Vicky Myers"
+   ],
+   "summary": "It adds a new element to the case.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/roberts-marriage-faces-collapse-emmerdale-aaron-enough-29822412/",
+   "title": "Robert’s marriage faces collapse in Emmerdale as Aaron has had enough",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Aaron Dingle",
+    "Danny Miller",
+    "Robert Sugden",
+    "Robron",
+    "Ryan Hawley"
+   ],
+   "summary": "It takes a lot to break Aaron.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/coronation-street-youngster-dead-pool-blood-ross-claims-victim-29807067/",
+   "title": "Youngster ‘dead’ in pool of blood as Coronation Street’s Ross claims another victim",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Ian Burfield",
+    "Ross Wilkes"
+   ],
+   "summary": "Ross knows exactly what he's doing.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/coronation-street-confirms-unexpected-pregnancy-family-reels-29813061/",
+   "title": "Coronation Street confirms unexpected pregnancy as family reels",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Alan Halsall",
+    "Fiz Dobbs",
+    "Hope Stape",
+    "Isabella Flanagan",
+    "Jennie McAlpine",
+    "Tyrone Dobbs"
+   ],
+   "summary": "Their home is a tense place.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/ravis-eastenders-exit-confirmed-star-quits-events-take-a-shocking-turn-29824860/",
+   "title": "Ravi’s EastEnders exit confirmed as star quits and events take a very shocking turn",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Ash Percival",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Max Branning",
+    "Ravi Gulati"
+   ],
+   "summary": "The Gulatis’ departure won’t go as planned.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/james-races-stop-imran-destroying-everything-hollyoaks-29822122/",
+   "title": "James races to stop Imran from destroying everything in Hollyoaks",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Stephen Patterson",
+   "categories": [
+    "Hollyoaks",
+    "Soaps",
+    "Gregory Finnegan",
+    "James Nightingale",
+    "Kieron Richardson",
+    "Ste Hay"
+   ],
+   "summary": "Will he succeed?",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/emmerdales-kammy-tom-showdown-confirmed-death-29822819/",
+   "title": "Emmerdale’s Kammy and Tom showdown confirmed – to the death?",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Katie Baillie",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Belle Dingle",
+    "Kammy Hadiq",
+    "Tom King"
+   ],
+   "summary": "Kammy’s in danger.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/shattered-amy-stages-surprise-eastenders-return-plunged-danger-29824552/",
+   "title": "Shattered Amy stages surprise EastEnders return but is then plunged into more danger",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Ash Percival",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Amy Mitchell",
+    "Denise Fox",
+    "Sean Slater"
+   ],
+   "summary": "Her ordeal is far from over.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/emmerdale-star-reveals-horror-nicola-kevs-shock-revelation-29813003/",
+   "title": "Emmerdale star reveals horror for Nicola as Kev’s shock revelation",
+   "published": "2026-11-27T23:59:00Z",
+   "author": "Joshua Halm",
+   "categories": [
+    "Emmerdale",
+    "Soaps",
+    "Chris Coghill",
+    "Kev Barton",
+    "Nicola King",
+    "Nicola Wheeler"
+   ],
+   "summary": "An unwelcome early Christmas present?",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/kate-middleton-tears-listening-childrens-messages-three-peaks-challenge-29825642/",
+   "title": "Kate in tears listening to messages from her children during Three Peaks Challenge",
+   "published": "2026-11-27T22:00:00Z",
+   "author": "Sam Corbishley",
+   "categories": [
+    "News",
+    "UK",
+    "Cancer",
+    "Catherine, Princess of Wales",
+    "Prince George of Wales",
+    "Prince Louis of Wales",
+    "Prince William, Prince of Wales",
+    "Princess Charlotte of Wales"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/watched-kate-middletons-documentary-heal-a-incredibly-raw-29825020/",
+   "title": "I watched Kate Middleton’s post-cancer documentary with her – it was an incredibly raw film",
+   "published": "2026-11-27T22:00:00Z",
+   "author": "Claie Wilson",
+   "categories": [
+    "News",
+    "Cancer",
+    "Catherine, Princess of Wales",
+    "Features",
+    "Giovanna Fletcher",
+    "Royal Family"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/arsenal-given-asking-price-sign-antonio-nusa-rb-leipzig-january-29825831/",
+   "title": "Arsenal given asking price to sign Antonio Nusa from RB Leipzig in January",
+   "published": "2026-11-27T21:55:05Z",
+   "author": "Chris Davie",
+   "categories": [
+    "Football",
+    "Sport",
+    "Arsenal",
+    "Arsenal transfer news",
+    "Bundesliga",
+    "Leipzig",
+    "Premier League",
+    "Transfer News and Rumours"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/itv-confirms-outcome-concluding-investigation-jacob-roberts-29825640/",
+   "title": "ITV confirms outcome after concluding investigation into Jacob Roberts",
+   "published": "2026-11-27T21:23:51Z",
+   "author": "Emily Bashforth",
+   "categories": [
+    "Coronation Street",
+    "Soaps",
+    "Jacob Roberts",
+    "Kit Green"
+   ],
+   "summary": "He was filmed using violent and misogynistic language on a night out.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/prada-paradoxe-refy-lip-blush-ysl-make-blush-sale-now-29825392/",
+   "title": "Why pay full price? These are the Black Friday beauty deals I’d buy before they’re gone",
+   "published": "2026-11-27T20:33:02Z",
+   "author": "Emma North",
+   "categories": [
+    "Beauty",
+    "Lifestyle",
+    "Shopping",
+    "Beauty Products",
+    "Black Friday",
+    "Deals",
+    "Hair and Beauty",
+    "Skincare"
+   ],
+   "summary": "",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
+  {
+   "link": "https://metro.co.uk/2026/11/27/eastenders-confirms-special-denise-episode-jack-gone-29824581/",
+   "title": "EastEnders confirms special Denise episode – and Jack is gone",
+   "published": "2026-11-27T20:00:00Z",
+   "author": "Calli Kitson",
+   "categories": [
+    "EastEnders",
+    "Soaps",
+    "Aaron Thiara",
+    "Denise Fox",
+    "Diane Parish",
+    "Jack Branning",
+    "Ravi Gulati",
+    "Scott Maslen"
+   ],
+   "summary": "Another reality.",
+   "image": null,
+   "first_seen": "2026-11-28T02:45:15.685826Z"
+  },
   {
    "link": "https://metro.co.uk/2026/11/27/ross-reported-vile-behaviour-faces-music-coronation-street-spoilers-reveal-next-29824709/",
    "title": "Ross reported over his vile behaviour as Coronation Street spoilers reveal what’s next",
